@@ -1,0 +1,1186 @@
+sample-id	Assay Type	AvgSpotLen	Bases	BioProject	BioSample	BioSampleModel	Bytes	case-control_status	Center Name	Collection_Date	Consent	DATASTORE filetype	DATASTORE provider	DATASTORE region	Experiment	geo_loc_name_country	geo_loc_name_country_continent	geo_loc_name	host_phenotype	Host	Instrument	lat_lon	Library Name	LibraryLayout	LibrarySelection	LibrarySource	Organism	Platform	ReleaseDate	create_date	version	Sample_ID	Sample Name	source_sample	SRA Study					
+SRR1764435	AMPLICON	606	4566107	PRJNA264177	SAMN03264127	Metagenome or environmental	9891230	case	WUGSC	missing	public	run.zq,sra,sff	ncbi,s3,gs	ncbi.public,s3.us-east-1,gs.US	SRX846568	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662310	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:56:00Z	1	103992777	GBAB-181-0103992777	stool	SRP051451					
+SRR1764436	AMPLICON	602	10890128	PRJNA264177	SAMN03264114	Metagenome or environmental	23675919	control	WUGSC	missing	public	run.zq,sff,sra	ncbi,s3,gs	s3.us-east-1,gs.US,ncbi.public	SRX846569	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662360	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:56:00Z	1	103991778	GBAB-180-0103991778	stool	SRP051451					
+SRR1764437	AMPLICON	562	2615020	PRJNA264177	SAMN03264135	Metagenome or environmental	5904621	control	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	ncbi.public,gs.US,s3.us-east-1	SRX846570	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662243	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:56:00Z	1	103991769	GBAB-182-0103991769	stool	SRP051451					
+SRR1764438	AMPLICON	591	4726330	PRJNA264177	SAMN03264197	Metagenome or environmental	10394087	case	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	s3.us-east-1,ncbi.public,gs.US	SRX846571	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662329	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:56:00Z	1	103992711	GBAB-241-0103992711	stool	SRP051451					
+SRR1764439	AMPLICON	597	3460780	PRJNA264177	SAMN03264063	Metagenome or environmental	7591961	case	WUGSC	missing	public	run.zq,sra,sff	ncbi,s3,gs	gs.US,ncbi.public,s3.us-east-1	SRX846572	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662343	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:56:00Z	1	103991844	GBAB-108-0103991844	stool	SRP051451					
+SRR1764440	AMPLICON	568	3641033	PRJNA264177	SAMN03264144	Metagenome or environmental	7945814	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	gs.US,ncbi.public,s3.us-east-1	SRX846573	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662373	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:58:00Z	1	103992758	GBAB-182-0103992758	stool	SRP051451					
+SRR1764441	AMPLICON	621	3464549	PRJNA264177	SAMN03264196	Metagenome or environmental	7667509	case	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	gs.US,s3.us-east-1,ncbi.public	SRX846574	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662376	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:58:00Z	1	103991837	GBAB-241-0103991837	stool	SRP051451					
+SRR1764442	AMPLICON	603	3503378	PRJNA264177	SAMN03264062	Metagenome or environmental	7677081	case	WUGSC	missing	public	sra,run.zq,sff	ncbi,s3,gs	s3.us-east-1,gs.US,ncbi.public	SRX846575	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662331	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:58:00Z	1	103991843	GBAB-108-0103991843	stool	SRP051451					
+SRR1764445	AMPLICON	603	3063629	PRJNA264177	SAMN03264112	Metagenome or environmental	6670648	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	s3.us-east-1,gs.US,ncbi.public	SRX846577	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662324	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:58:00Z	1	103991770	GBAB-180-0103991770	stool	SRP051451					
+SRR1764625	AMPLICON	580	7644841	PRJNA264177	SAMN03264320	Metagenome or environmental	16637179	case	WUGSC	missing	public	sff,run.zq,sra	gs,ncbi,s3	gs.US,ncbi.public,s3.us-east-1	SRX846730	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790526	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:32:00Z	1	125793445	GBAB-434-0125793445	stool	SRP051451					
+SRR1764626	AMPLICON	573	6683339	PRJNA264177	SAMN03264354	Metagenome or environmental	14584364	control	WUGSC	missing	public	sra,run.zq,sff	gs,s3,ncbi	gs.US,s3.us-east-1,ncbi.public	SRX846731	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790495	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:32:00Z	1	125796773	GBAB-453-0125796773	stool	SRP051451					
+SRR1764627	AMPLICON	576	6774746	PRJNA264177	SAMN03264358	Metagenome or environmental	14626430	control	WUGSC	missing	public	run.zq,sra,sff	s3,ncbi,gs	ncbi.public,s3.us-east-1,gs.US	SRX846732	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790493	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:32:00Z	1	124129054	GBAB-457-0124129054	stool	SRP051451					
+SRR1764628	AMPLICON	572	10466405	PRJNA264177	SAMN03264344	Metagenome or environmental	22996964	case	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	gs.US,s3.us-east-1,ncbi.public	SRX846733	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790566	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:32:00Z	1	125793422	GBAB-444-0125793422	stool	SRP051451					
+SRR1764629	AMPLICON	572	7836925	PRJNA264177	SAMN03264286	Metagenome or environmental	17308254	case	WUGSC	missing	public	run.zq,sff,sra	ncbi,s3,gs	gs.US,ncbi.public,s3.us-east-1	SRX846734	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790340	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:33:00Z	1	125796781	GBAB-404-0125796781	stool	SRP051451					
+SRR1764631	AMPLICON	569	8350987	PRJNA264177	SAMN03264349	Metagenome or environmental	18310871	control	WUGSC	missing	public	run.zq,sra,sff	ncbi,gs,s3	s3.us-east-1,gs.US,ncbi.public	SRX846735	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790543	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:32:00Z	1	125793414	GBAB-453-0125793414	stool	SRP051451					
+SRR1764632	AMPLICON	571	13018631	PRJNA264177	SAMN03264327	Metagenome or environmental	28287050	case	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846736	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790514	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:32:00Z	1	125793453	GBAB-434-0125793453	stool	SRP051451					
+SRR1764633	AMPLICON	575	4762442	PRJNA264177	SAMN03264330	Metagenome or environmental	10282986	control	WUGSC	missing	public	sff,sra,run.zq	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846737	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790545	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:32:00Z	1	125792465	GBAB-436-0125792465	stool	SRP051451					
+SRR1764634	AMPLICON	574	6527369	PRJNA264177	SAMN03264363	Metagenome or environmental	14187857	control	WUGSC	missing	public	run.zq,sff,sra	s3,gs,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846738	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790515	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:33:00Z	1	125796779	GBAB-457-0125796779	stool	SRP051451					
+SRR1764635	AMPLICON	578	8257321	PRJNA264177	SAMN03264321	Metagenome or environmental	17940457	case	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846739	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790504	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:32:00Z	1	125793446	GBAB-434-0125793446	stool	SRP051451					
+SRR1764875	AMPLICON	567	3278337	PRJNA264177	SAMN03264083	Metagenome or environmental	7157900	control	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	ncbi.public,gs.US,s3.us-east-1	SRX846871	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425200	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	124119133	GBAB-111-0124119133	stool	SRP051451					
+SRR1764876	AMPLICON	566	11646331	PRJNA264177	SAMN03264155	Metagenome or environmental	25847583	control	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	ncbi.public,gs.US,s3.us-east-1	SRX846872	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425181	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:11:00Z	1	124119111	GBAB-197-0124119111	stool	SRP051451					
+SRR1764877	AMPLICON	570	12562498	PRJNA264177	SAMN03264065	Metagenome or environmental	27321778	control	WUGSC	missing	public	sff,run.zq,sra	gs,ncbi,s3	s3.us-east-1,ncbi.public,gs.US	SRX846873	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425171	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	124119158	GBAB-109-0124119158	stool	SRP051451					
+SRR1764878	AMPLICON	570	6847270	PRJNA264177	SAMN03264104	Metagenome or environmental	14931399	control	WUGSC	missing	public	run.zq,sff,sra	gs,s3,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846874	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425197	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:11:00Z	1	124119114	GBAB-129-0124119114	stool	SRP051451					
+SRR1764915	AMPLICON	562	5400702	PRJNA264177	SAMN03264235	Metagenome or environmental	11925533	control	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	ncbi.public,s3.us-east-1,gs.US	SRX846910	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439257	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	125796832	GBAB-360-0125796832	stool	SRP051451					
+SRR1764916	AMPLICON	570	2444247	PRJNA264177	SAMN03264219	Metagenome or environmental	5350542	control	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846911	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439235	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	125796855	GBAB-314-0125796855	stool	SRP051451					
+SRR1764917	AMPLICON	573	2697071	PRJNA264177	SAMN03264162	Metagenome or environmental	5934458	control	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846912	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439060	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	124119094	GBAB-198-0124119094	stool	SRP051451					
+SRR1764918	AMPLICON	576	5290089	PRJNA264177	SAMN03264241	Metagenome or environmental	11580223	control	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846913	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439263	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	125796082	GBAB-366-0125796082	stool	SRP051451					
+SRR1764919	AMPLICON	584	2047496	PRJNA264177	SAMN03264232	Metagenome or environmental	4537608	case	WUGSC	missing	public	run.zq,sff,sra	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846914	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439249	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	125797428	GBAB-357-0125797428	stool	SRP051451					
+SRR1764920	AMPLICON	472	1960749	PRJNA264177	SAMN03264242	Metagenome or environmental	4642335	control	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846915	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439260	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	125796829	GBAB-366-0125796829	stool	SRP051451					
+SRR1764921	AMPLICON	571	3565795	PRJNA264177	SAMN03264206	Metagenome or environmental	7812186	control	WUGSC	missing	public	sff,run.zq,sra	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846916	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439231	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	125796859	GBAB-247-0125796859	stool	SRP051451					
+SRR1764922	AMPLICON	568	5948486	PRJNA264177	SAMN03264236	Metagenome or environmental	13120381	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	s3.us-east-1,gs.US,ncbi.public	SRX846917	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439256	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	125796833	GBAB-360-0125796833	stool	SRP051451					
+SRR1764923	AMPLICON	576	4635653	PRJNA264177	SAMN03264249	Metagenome or environmental	10196235	case	WUGSC	missing	public	sff,sra,run.zq	ncbi,gs,s3	gs.US,s3.us-east-1,ncbi.public	SRX846918	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439272	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	125796807	GBAB-395-0125796807	stool	SRP051451					
+SRR1764406	AMPLICON	606	5021665	PRJNA264177	SAMN03264167	Metagenome or environmental	10857331	case	WUGSC	missing	public	sra,run.zq,sff	s3,gs,ncbi	gs.US,s3.us-east-1,ncbi.public	SRX846539	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662326	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991782	GBAB-201-0103991782	stool	SRP051451					
+SRR1764407	AMPLICON	606	4268940	PRJNA264177	SAMN03264169	Metagenome or environmental	9242949	case	WUGSC	missing	public	run.zq,sff,sra	s3,gs,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846540	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662303	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991806	GBAB-201-0103991806	stool	SRP051451					
+SRR1764408	AMPLICON	613	3885571	PRJNA264177	SAMN03264168	Metagenome or environmental	8385655	case	WUGSC	missing	public	sff,sra,run.zq	ncbi,gs,s3	s3.us-east-1,ncbi.public,gs.US	SRX846541	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662295	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991791	GBAB-201-0103991791	stool	SRP051451					
+SRR1764409	AMPLICON	594	4592502	PRJNA264177	SAMN03264190	Metagenome or environmental	10009383	case	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846542	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662305	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991808	GBAB-241-0103991808	stool	SRP051451					
+SRR1764410	AMPLICON	598	6045646	PRJNA264177	SAMN03264119	Metagenome or environmental	13295873	control	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	s3.us-east-1,gs.US,ncbi.public	SRX846544	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662348	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103992765	GBAB-180-0103992765	stool	SRP051451					
+SRR1764411	AMPLICON	598	3838529	PRJNA264177	SAMN03264192	Metagenome or environmental	8411945	case	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846545	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662318	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991812	GBAB-241-0103991812	stool	SRP051451					
+SRR1764412	AMPLICON	603	3551138	PRJNA264177	SAMN03264064	Metagenome or environmental	7770229	case	WUGSC	missing	public	sra,run.zq,sff	ncbi,s3,gs	s3.us-east-1,ncbi.public,gs.US	SRX846543	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662367	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991846	GBAB-108-0103991846	stool	SRP051451					
+SRR1764413	AMPLICON	613	2417702	PRJNA264177	SAMN03264122	Metagenome or environmental	5229110	case	WUGSC	missing	public	sff,run.zq,sra	ncbi,s3,gs	s3.us-east-1,gs.US,ncbi.public	SRX846546	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662241	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991746	GBAB-181-0103991746	stool	SRP051451					
+SRR1764414	AMPLICON	608	4374268	PRJNA264177	SAMN03264056	Metagenome or environmental	9475420	case	WUGSC	missing	public	sff,sra,run.zq	s3,ncbi,gs	ncbi.public,s3.us-east-1,gs.US	SRX846547	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662368	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991822	GBAB-108-0103991822	stool	SRP051451					
+SRR1764415	AMPLICON	606	3489081	PRJNA264177	SAMN03264186	Metagenome or environmental	7602281	case	WUGSC	missing	public	sra,run.zq,sff	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846548	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662298	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991788	GBAB-241-0103991788	stool	SRP051451					
+SRR1764416	AMPLICON	610	5377238	PRJNA264177	SAMN03264171	Metagenome or environmental	11592308	case	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	gs.US,ncbi.public,s3.us-east-1	SRX846549	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662363	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991831	GBAB-201-0103991831	stool	SRP051451					
+SRR1764417	AMPLICON	573	3913003	PRJNA264177	SAMN03264139	Metagenome or environmental	8591586	control	WUGSC	missing	public	sff,sra,run.zq	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846550	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662349	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991804	GBAB-182-0103991804	stool	SRP051451					
+SRR1764418	AMPLICON	605	4582761	PRJNA264177	SAMN03264174	Metagenome or environmental	9963291	case	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	ncbi.public,gs.US,s3.us-east-1	SRX846551	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662342	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991699	GBAB-241-0103991699	stool	SRP051451					
+SRR1764419	AMPLICON	595	4513844	PRJNA264177	SAMN03264194	Metagenome or environmental	10198019	case	WUGSC	missing	public	sff,run.zq,sra	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846552	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662351	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991814	GBAB-241-0103991814	stool	SRP051451					
+SRR1764420	AMPLICON	608	5041734	PRJNA264177	SAMN03264170	Metagenome or environmental	10895159	case	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846553	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662314	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991815	GBAB-201-0103991815	stool	SRP051451					
+SRR1764421	AMPLICON	627	3120602	PRJNA264177	SAMN03264175	Metagenome or environmental	6911913	case	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846554	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662296	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:52:00Z	1	103991759	GBAB-241-0103991759	stool	SRP051451					
+SRR1764422	AMPLICON	605	4638781	PRJNA264177	SAMN03264176	Metagenome or environmental	10194890	case	WUGSC	missing	public	sff,run.zq,sra	gs,ncbi,s3	gs.US,ncbi.public,s3.us-east-1	SRX846555	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662364	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:54:00Z	1	103991760	GBAB-241-0103991760	stool	SRP051451					
+SRR1764423	AMPLICON	590	3512036	PRJNA264177	SAMN03264132	Metagenome or environmental	7694044	control	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846556	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662374	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:54:00Z	1	103991757	GBAB-182-0103991757	stool	SRP051451					
+SRR1764424	AMPLICON	605	3877795	PRJNA264177	SAMN03264180	Metagenome or environmental	8618144	case	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846557	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662352	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:54:00Z	1	103991765	GBAB-241-0103991765	stool	SRP051451					
+SRR1764425	AMPLICON	591	1652271	PRJNA264177	SAMN03264138	Metagenome or environmental	3717337	control	WUGSC	missing	public	run.zq,sra,sff	gs,ncbi,s3	ncbi.public,s3.us-east-1,gs.US	SRX846558	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662361	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:54:00Z	1	103991793	GBAB-182-0103991793	stool	SRP051451					
+SRR1764426	AMPLICON	611	6211509	PRJNA264177	SAMN03264113	Metagenome or environmental	13385273	control	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846559	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662323	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:54:00Z	1	103991777	GBAB-180-0103991777	stool	SRP051451					
+SRR1764427	AMPLICON	611	3422525	PRJNA264177	SAMN03264129	Metagenome or environmental	7363190	case	WUGSC	missing	public	sra,run.zq,sff	ncbi,s3,gs	s3.us-east-1,gs.US,ncbi.public	SRX846560	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662358	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:54:00Z	1	103992781	GBAB-181-0103992781	stool	SRP051451					
+SRR1764428	AMPLICON	603	11772127	PRJNA264177	SAMN03264124	Metagenome or environmental	25492132	case	WUGSC	missing	public	sff,sra,run.zq	s3,ncbi,gs	gs.US,ncbi.public,s3.us-east-1	SRX846561	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662322	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:55:00Z	1	103991776	GBAB-181-0103991776	stool	SRP051451					
+SRR1764429	AMPLICON	598	5799099	PRJNA264177	SAMN03264123	Metagenome or environmental	12866121	case	WUGSC	missing	public	run.zq,sff,sra	gs,s3,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846562	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662357	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:55:00Z	1	103991775	GBAB-181-0103991775	stool	SRP051451					
+SRR1764430	AMPLICON	587	6202984	PRJNA264177	SAMN03264133	Metagenome or environmental	13641843	control	WUGSC	missing	public	sff,sra,run.zq	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846563	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662362	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:56:00Z	1	103991758	GBAB-182-0103991758	stool	SRP051451					
+SRR1764431	AMPLICON	602	5820478	PRJNA264177	SAMN03264193	Metagenome or environmental	12654067	case	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846564	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662316	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:55:00Z	1	103991813	GBAB-241-0103991813	stool	SRP051451					
+SRR1764432	AMPLICON	601	3970430	PRJNA264177	SAMN03264061	Metagenome or environmental	8695680	case	WUGSC	missing	public	run.zq,sff,sra	ncbi,s3,gs	s3.us-east-1,gs.US,ncbi.public	SRX846565	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662319	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:55:00Z	1	103991842	GBAB-108-0103991842	stool	SRP051451					
+SRR1764433	AMPLICON	628	7570818	PRJNA264177	SAMN03264126	Metagenome or environmental	16669924	case	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	gs.US,s3.us-east-1,ncbi.public	SRX846566	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662345	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:55:00Z	1	103991797	GBAB-181-0103991797	stool	SRP051451					
+SRR1764434	AMPLICON	609	5071829	PRJNA264177	SAMN03264128	Metagenome or environmental	10908849	case	WUGSC	missing	public	sff,run.zq,sra	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846567	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662346	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:56:00Z	1	103992780	GBAB-181-0103992780	stool	SRP051451					
+SRR1764443	AMPLICON	609	2269640	PRJNA264177	SAMN03264108	Metagenome or environmental	5048792	control	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	s3.us-east-1,ncbi.public,gs.US	SRX846576	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662347	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:58:00Z	1	103991729	GBAB-180-0103991729	stool	SRP051451					
+SRR1764446	AMPLICON	605	4089779	PRJNA264177	SAMN03264059	Metagenome or environmental	8923264	case	WUGSC	missing	public	sff,sra,run.zq	s3,ncbi,gs	s3.us-east-1,ncbi.public,gs.US	SRX846578	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662300	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:59:00Z	1	103991840	GBAB-108-0103991840	stool	SRP051451					
+SRR1764447	AMPLICON	604	6707640	PRJNA264177	SAMN03264116	Metagenome or environmental	14588309	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	s3.us-east-1,gs.US,ncbi.public	SRX846579	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662301	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:59:00Z	1	103992761	GBAB-180-0103992761	stool	SRP051451					
+SRR1764448	AMPLICON	605	4160669	PRJNA264177	SAMN03264058	Metagenome or environmental	9018147	case	WUGSC	missing	public	run.zq,sra,sff	s3,ncbi,gs	ncbi.public,s3.us-east-1,gs.US	SRX846580	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662356	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:59:00Z	1	103991824	GBAB-108-0103991824	stool	SRP051451					
+SRR1764449	AMPLICON	597	5204725	PRJNA264177	SAMN03264140	Metagenome or environmental	11360779	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,gs,s3	ncbi.public,gs.US,s3.us-east-1	SRX846581	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662325	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:59:00Z	1	103991805	GBAB-182-0103991805	stool	SRP051451					
+SRR1764450	AMPLICON	602	4577152	PRJNA264177	SAMN03264137	Metagenome or environmental	9947951	control	WUGSC	missing	public	sra,run.zq,sff	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846582	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662313	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:59:00Z	1	103991792	GBAB-182-0103991792	stool	SRP051451					
+SRR1764451	AMPLICON	587	3886462	PRJNA264177	SAMN03264142	Metagenome or environmental	8558822	control	WUGSC	missing	public	sra,run.zq,sff	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846583	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662338	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:59:00Z	1	103991830	GBAB-182-0103991830	stool	SRP051451					
+SRR1764452	AMPLICON	627	3544026	PRJNA264177	SAMN03264181	Metagenome or environmental	7772176	case	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846584	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662304	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:59:00Z	1	103991766	GBAB-241-0103991766	stool	SRP051451					
+SRR1764453	AMPLICON	623	3367356	PRJNA264177	SAMN03264182	Metagenome or environmental	7455290	case	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846585	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662315	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:59:00Z	1	103991783	GBAB-241-0103991783	stool	SRP051451					
+SRR1764454	AMPLICON	604	6059670	PRJNA264177	SAMN03264118	Metagenome or environmental	13117057	control	WUGSC	missing	public	run.zq,sff,sra	ncbi,gs,s3	s3.us-east-1,gs.US,ncbi.public	SRX846586	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662372	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:59:00Z	1	103992763	GBAB-180-0103992763	stool	SRP051451					
+SRR1764455	AMPLICON	602	5098321	PRJNA264177	SAMN03264117	Metagenome or environmental	11103868	control	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	gs.US,ncbi.public,s3.us-east-1	SRX846587	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662242	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T14:59:00Z	1	103992762	GBAB-180-0103992762	stool	SRP051451					
+SRR1764456	AMPLICON	607	3800507	PRJNA264177	SAMN03264055	Metagenome or environmental	8218103	case	WUGSC	missing	public	sff,sra,run.zq	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846588	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662344	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:00:00Z	1	103991799	GBAB-108-0103991799	stool	SRP051451					
+SRR1764457	AMPLICON	599	4109331	PRJNA264177	SAMN03264198	Metagenome or environmental	8978222	case	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	gs.US,ncbi.public,s3.us-east-1	SRX846589	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662330	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:00:00Z	1	103992719	GBAB-241-0103992719	stool	SRP051451					
+SRR1764458	AMPLICON	584	3686830	PRJNA264177	SAMN03264179	Metagenome or environmental	8112529	case	WUGSC	missing	public	sff,sra,run.zq	ncbi,gs,s3	s3.us-east-1,gs.US,ncbi.public	SRX846590	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662341	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:00:00Z	1	103991764	GBAB-241-0103991764	stool	SRP051451					
+SRR1764459	AMPLICON	608	3865426	PRJNA264177	SAMN03264115	Metagenome or environmental	8385281	control	WUGSC	missing	public	run.zq,sff,sra	ncbi,s3,gs	ncbi.public,s3.us-east-1,gs.US	SRX846591	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662311	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:00:00Z	1	103992760	GBAB-180-0103992760	stool	SRP051451					
+SRR1764460	AMPLICON	596	5867864	PRJNA264177	SAMN03264141	Metagenome or environmental	12781485	control	WUGSC	missing	public	run.zq,sff,sra	ncbi,gs,s3	s3.us-east-1,gs.US,ncbi.public	SRX846592	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662337	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:00:00Z	1	103991816	GBAB-182-0103991816	stool	SRP051451					
+SRR1764461	AMPLICON	604	6037929	PRJNA264177	SAMN03264185	Metagenome or environmental	13132995	case	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	ncbi.public,gs.US,s3.us-east-1	SRX846593	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662306	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:00:00Z	1	103991787	GBAB-241-0103991787	stool	SRP051451					
+SRR1764462	AMPLICON	600	4210045	PRJNA264177	SAMN03264199	Metagenome or environmental	9254517	case	WUGSC	missing	public	sff,run.zq,sra	s3,ncbi,gs	ncbi.public,gs.US,s3.us-east-1	SRX846666	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662353	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:00:00Z	1	103992724	GBAB-241-0103992724	stool	SRP051451					
+SRR1764463	AMPLICON	614	4279026	PRJNA264177	SAMN03264121	Metagenome or environmental	9474968	control	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846667	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662359	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:01:00Z	1	103992773	GBAB-180-0103992773	stool	SRP051451					
+SRR1764464	AMPLICON	609	4386754	PRJNA264177	SAMN03264110	Metagenome or environmental	9444233	control	WUGSC	missing	public	sff,run.zq,sra	ncbi,gs,s3	gs.US,ncbi.public,s3.us-east-1	SRX846668	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662335	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:01:00Z	1	103991731	GBAB-180-0103991731	stool	SRP051451					
+SRR1764465	AMPLICON	584	3208508	PRJNA264177	SAMN03264212	Metagenome or environmental	7199052	case	WUGSC	missing	public	sff,sra,run.zq	ncbi,gs,s3	gs.US,ncbi.public,s3.us-east-1	SRX846669	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662299	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:01:00Z	1	103991713	GBAB-309-0103991713	stool	SRP051451					
+SRR1764466	AMPLICON	607	4434893	PRJNA264177	SAMN03264120	Metagenome or environmental	9552973	control	WUGSC	missing	public	sff,run.zq,sra	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846670	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662336	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:01:00Z	1	103992766	GBAB-180-0103992766	stool	SRP051451					
+SRR1764467	AMPLICON	611	3711003	PRJNA264177	SAMN03264125	Metagenome or environmental	8040536	case	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	s3.us-east-1,ncbi.public,gs.US	SRX846671	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662334	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:01:00Z	1	103991796	GBAB-181-0103991796	stool	SRP051451					
+SRR1764468	AMPLICON	608	1775774	PRJNA264177	SAMN03264188	Metagenome or environmental	3992876	case	WUGSC	missing	public	sra,sff,run.zq	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846672	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662327	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:03:00Z	1	103991790	GBAB-241-0103991790	stool	SRP051451					
+SRR1764469	AMPLICON	593	4575617	PRJNA264177	SAMN03264134	Metagenome or environmental	10055655	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846673	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662294	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:03:00Z	1	103991768	GBAB-182-0103991768	stool	SRP051451					
+SRR1764470	AMPLICON	609	3769645	PRJNA264177	SAMN03264057	Metagenome or environmental	8174577	case	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846674	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662240	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:03:00Z	1	103991823	GBAB-108-0103991823	stool	SRP051451					
+SRR1764471	AMPLICON	598	4213821	PRJNA264177	SAMN03264136	Metagenome or environmental	9182400	control	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	s3.us-east-1,gs.US,ncbi.public	SRX846675	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662302	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:03:00Z	1	103991781	GBAB-182-0103991781	stool	SRP051451					
+SRR1764544	AMPLICON	606	5976974	PRJNA264177	SAMN03264195	Metagenome or environmental	12960311	case	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846676	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662354	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:04:00Z	1	103991836	GBAB-241-0103991836	stool	SRP051451					
+SRR1764545	AMPLICON	573	4387948	PRJNA264177	SAMN03264187	Metagenome or environmental	9721333	case	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846677	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662297	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:04:00Z	1	103991789	GBAB-241-0103991789	stool	SRP051451					
+SRR1764546	AMPLICON	590	5069216	PRJNA264177	SAMN03264184	Metagenome or environmental	11152939	case	WUGSC	missing	public	run.zq,sff,sra	ncbi,s3,gs	ncbi.public,s3.us-east-1,gs.US	SRX846678	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662317	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:04:00Z	1	103991785	GBAB-241-0103991785	stool	SRP051451					
+SRR1764547	AMPLICON	603	3497506	PRJNA264177	SAMN03264189	Metagenome or environmental	7782544	case	WUGSC	missing	public	run.zq,sra,sff	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846679	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662339	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:04:00Z	1	103991807	GBAB-241-0103991807	stool	SRP051451					
+SRR1764548	AMPLICON	575	2804918	PRJNA264177	SAMN03264094	Metagenome or environmental	6234455	case	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846680	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662332	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:04:00Z	1	103991821	GBAB-115-0103991821	stool	SRP051451					
+SRR1764549	AMPLICON	569	4379162	PRJNA264177	SAMN03264200	Metagenome or environmental	9753236	case	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846681	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662328	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:04:00Z	1	103992730	GBAB-241-0103992730	stool	SRP051451					
+SRR1764550	AMPLICON	565	2718126	PRJNA264177	SAMN03264111	Metagenome or environmental	6121355	control	WUGSC	missing	public	sff,sra,run.zq	ncbi,s3,gs	s3.us-east-1,gs.US,ncbi.public	SRX846682	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662371	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:04:00Z	1	103991752	GBAB-180-0103991752	stool	SRP051451					
+SRR1764551	AMPLICON	598	3997342	PRJNA264177	SAMN03264183	Metagenome or environmental	8886822	case	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	s3.us-east-1,ncbi.public,gs.US	SRX846683	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662340	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:04:00Z	1	103991784	GBAB-241-0103991784	stool	SRP051451					
+SRR1764552	AMPLICON	609	4715248	PRJNA264177	SAMN03264130	Metagenome or environmental	10149540	case	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846684	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662370	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:04:00Z	1	103992782	GBAB-181-0103992782	stool	SRP051451					
+SRR1764553	AMPLICON	599	7722603	PRJNA264177	SAMN03264191	Metagenome or environmental	16849216	case	WUGSC	missing	public	sff,sra,run.zq	ncbi,s3,gs	ncbi.public,s3.us-east-1,gs.US	SRX846685	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662366	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:04:00Z	1	103991809	GBAB-241-0103991809	stool	SRP051451					
+SRR1764554	AMPLICON	607	6206275	PRJNA264177	SAMN03264060	Metagenome or environmental	13491122	case	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846686	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662308	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:06:00Z	1	103991841	GBAB-108-0103991841	stool	SRP051451					
+SRR1764555	AMPLICON	589	4857250	PRJNA264177	SAMN03264143	Metagenome or environmental	10688246	control	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846687	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2871662350	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:06:00Z	1	103992748	GBAB-182-0103992748	stool	SRP051451					
+SRR1764556	AMPLICON	606	5789891	PRJNA264177	SAMN03264172	Metagenome or environmental	12491288	case	WUGSC	missing	public	sff,sra,run.zq	ncbi,s3,gs	gs.US,ncbi.public,s3.us-east-1	SRX846688	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662375	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:06:00Z	1	103991838	GBAB-201-0103991838	stool	SRP051451					
+SRR1764557	AMPLICON	579	4744053	PRJNA264177	SAMN03264177	Metagenome or environmental	10539288	case	WUGSC	missing	public	run.zq,sra,sff	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846689	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2871662365	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:06:00Z	1	103991761	GBAB-241-0103991761	stool	SRP051451					
+SRR1764573	AMPLICON	269	1552333	PRJNA264177	SAMN03264131	Metagenome or environmental	4694234	case	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846690	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289273	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:26:00Z	1	103992793	GBAB-181-0103992793	stool	SRP051451					
+SRR1764574	AMPLICON	565	10965521	PRJNA264177	SAMN03264178	Metagenome or environmental	24350930	case	WUGSC	missing	public	sff,run.zq,sra	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846691	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289274	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:26:00Z	1	103991762	GBAB-241-0103991762	stool	SRP051451					
+SRR1764575	AMPLICON	562	22916135	PRJNA264177	SAMN03264211	Metagenome or environmental	51048121	case	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846692	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289281	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:27:00Z	1	103991391	GBAB-309-0103991391	stool	SRP051451					
+SRR1764576	AMPLICON	358	1293105	PRJNA264177	SAMN03264131	Metagenome or environmental	3436482	case	WUGSC	missing	public	sff,run.zq,sra	s3,gs,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846690	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289273	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:27:00Z	1	103992793	GBAB-181-0103992793	stool	SRP051451					
+SRR1764577	AMPLICON	562	28595832	PRJNA264177	SAMN03264214	Metagenome or environmental	63718156	case	WUGSC	missing	public	run.zq,sra,sff	ncbi,gs,s3	gs.US,ncbi.public,s3.us-east-1	SRX846693	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289279	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:27:00Z	1	103993181	GBAB-309-0103993181	stool	SRP051451					
+SRR1764578	AMPLICON	566	26544349	PRJNA264177	SAMN03264213	Metagenome or environmental	59015465	case	WUGSC	missing	public	sff,sra,run.zq	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846694	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289280	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:28:00Z	1	103993180	GBAB-309-0103993180	stool	SRP051451					
+SRR1764579	AMPLICON	565	18697335	PRJNA264177	SAMN03264215	Metagenome or environmental	41559147	case	WUGSC	missing	public	run.zq,sff,sra	gs,s3,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846695	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289278	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:28:00Z	1	103993182	GBAB-309-0103993182	stool	SRP051451					
+SRR1764580	AMPLICON	565	20186749	PRJNA264177	SAMN03264216	Metagenome or environmental	44937256	case	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	ncbi.public,s3.us-east-1,gs.US	SRX846696	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289277	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:28:00Z	1	103993183	GBAB-309-0103993183	stool	SRP051451					
+SRR1764581	AMPLICON	566	24025535	PRJNA264177	SAMN03264217	Metagenome or environmental	53308481	case	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846697	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289276	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:28:00Z	1	103993184	GBAB-309-0103993184	stool	SRP051451					
+SRR1764582	AMPLICON	570	16157816	PRJNA264177	SAMN03264173	Metagenome or environmental	35737679	case	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	s3.us-east-1,ncbi.public,gs.US	SRX846698	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289275	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	103991690	GBAB-241-0103991690	stool	SRP051451					
+SRR1764583	AMPLICON	553	9198705	PRJNA264177	SAMN03264109	Metagenome or environmental	20469771	control	WUGSC	missing	public	run.zq,sff,sra	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846699	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2872289272	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:28:00Z	1	103991730	GBAB-180-0103991730	stool	SRP051451					
+SRR1764584	AMPLICON	565	10665412	PRJNA264177	SAMN03264178	Metagenome or environmental	22888488	case	WUGSC	missing	public	run.zq,sff,sra	ncbi,gs,s3	ncbi.public,gs.US,s3.us-east-1	SRX846691	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289274	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:28:00Z	1	103991762	GBAB-241-0103991762	stool	SRP051451					
+SRR1764585	AMPLICON	562	22625433	PRJNA264177	SAMN03264211	Metagenome or environmental	48528555	case	WUGSC	missing	public	sff,run.zq,sra	ncbi,s3,gs	ncbi.public,s3.us-east-1,gs.US	SRX846692	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289281	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:28:00Z	1	103991391	GBAB-309-0103991391	stool	SRP051451					
+SRR1764586	AMPLICON	562	28414153	PRJNA264177	SAMN03264214	Metagenome or environmental	60971898	case	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846693	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289279	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:28:00Z	1	103993181	GBAB-309-0103993181	stool	SRP051451					
+SRR1764587	AMPLICON	566	26248790	PRJNA264177	SAMN03264213	Metagenome or environmental	56369538	case	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	ncbi.public,s3.us-east-1,gs.US	SRX846694	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289280	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:28:00Z	1	103993180	GBAB-309-0103993180	stool	SRP051451					
+SRR1764588	AMPLICON	565	18337668	PRJNA264177	SAMN03264215	Metagenome or environmental	39420917	case	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	ncbi.public,gs.US,s3.us-east-1	SRX846695	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289278	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:28:00Z	1	103993182	GBAB-309-0103993182	stool	SRP051451					
+SRR1764589	AMPLICON	566	19797040	PRJNA264177	SAMN03264216	Metagenome or environmental	42595133	case	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846696	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289277	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:28:00Z	1	103993183	GBAB-309-0103993183	stool	SRP051451					
+SRR1764590	AMPLICON	566	23318898	PRJNA264177	SAMN03264217	Metagenome or environmental	50100240	case	WUGSC	missing	public	sff,sra,run.zq	ncbi,gs,s3	s3.us-east-1,ncbi.public,gs.US	SRX846697	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289276	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	103993184	GBAB-309-0103993184	stool	SRP051451					
+SRR1764591	AMPLICON	570	16056034	PRJNA264177	SAMN03264173	Metagenome or environmental	34360445	case	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846698	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2872289275	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	103991690	GBAB-241-0103991690	stool	SRP051451					
+SRR1764592	AMPLICON	560	9112557	PRJNA264177	SAMN03264109	Metagenome or environmental	19520712	control	WUGSC	missing	public	sff,run.zq,sra	gs,s3,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846699	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2872289272	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	103991730	GBAB-180-0103991730	stool	SRP051451					
+SRR1764594	AMPLICON	570	8445275	PRJNA264177	SAMN03264365	Metagenome or environmental	18505904	control	WUGSC	missing	public	sra,run.zq,sff	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846700	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790499	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	125797382	GBAB-457-0125797382	stool	SRP051451					
+SRR1764595	AMPLICON	574	5726669	PRJNA264177	SAMN03264353	Metagenome or environmental	12530972	control	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	gs.US,ncbi.public,s3.us-east-1	SRX846701	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790509	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	125796771	GBAB-453-0125796771	stool	SRP051451					
+SRR1764596	AMPLICON	572	7386475	PRJNA264177	SAMN03264336	Metagenome or environmental	16187026	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,s3,gs	s3.us-east-1,gs.US,ncbi.public	SRX846702	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790527	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	125793441	GBAB-439-0125793441	stool	SRP051451					
+SRR1764597	AMPLICON	571	9733079	PRJNA264177	SAMN03264342	Metagenome or environmental	21248138	case	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	ncbi.public,gs.US,s3.us-east-1	SRX846703	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790561	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	125793408	GBAB-444-0125793408	stool	SRP051451					
+SRR1764598	AMPLICON	566	6021860	PRJNA264177	SAMN03264355	Metagenome or environmental	13099523	control	WUGSC	missing	public	run.zq,sra,sff	s3,ncbi,gs	gs.US,ncbi.public,s3.us-east-1	SRX846704	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790550	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	125797381	GBAB-453-0125797381	stool	SRP051451					
+SRR1764599	AMPLICON	571	8619660	PRJNA264177	SAMN03264346	Metagenome or environmental	18905091	case	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	gs.US,s3.us-east-1,ncbi.public	SRX846705	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790555	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	125793424	GBAB-444-0125793424	stool	SRP051451					
+SRR1764600	AMPLICON	567	6162609	PRJNA264177	SAMN03264350	Metagenome or environmental	13723776	control	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846706	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790523	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	125793415	GBAB-453-0125793415	stool	SRP051451					
+SRR1764601	AMPLICON	575	6787940	PRJNA264177	SAMN03264337	Metagenome or environmental	14595035	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,gs,s3	gs.US,s3.us-east-1,ncbi.public	SRX846707	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790533	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:29:00Z	1	125793442	GBAB-439-0125793442	stool	SRP051451					
+SRR1764602	AMPLICON	573	3984447	PRJNA264177	SAMN03264332	Metagenome or environmental	8618596	control	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846708	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790525	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125799662	GBAB-436-0125799662	stool	SRP051451					
+SRR1764603	AMPLICON	575	8027568	PRJNA264177	SAMN03264335	Metagenome or environmental	17263509	control	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846709	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790544	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125793431	GBAB-439-0125793431	stool	SRP051451					
+SRR1764604	AMPLICON	575	6806959	PRJNA264177	SAMN03264364	Metagenome or environmental	14759111	control	WUGSC	missing	public	run.zq,sff,sra	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846710	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790492	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125797050	GBAB-457-0125797050	stool	SRP051451					
+SRR1764605	AMPLICON	571	7764680	PRJNA264177	SAMN03264339	Metagenome or environmental	16948735	case	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	gs.US,ncbi.public,s3.us-east-1	SRX846711	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790557	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	124120129	GBAB-444-0124120129	stool	SRP051451					
+SRR1764606	AMPLICON	570	5190717	PRJNA264177	SAMN03264334	Metagenome or environmental	11337287	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846712	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790534	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	124120150	GBAB-439-0124120150	stool	SRP051451					
+SRR1764607	AMPLICON	570	9614877	PRJNA264177	SAMN03264314	Metagenome or environmental	21014628	control	WUGSC	missing	public	sff,run.zq,sra	s3,gs,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846713	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790522	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	124120183	GBAB-431-0124120183	stool	SRP051451					
+SRR1764608	AMPLICON	572	7433021	PRJNA264177	SAMN03264316	Metagenome or environmental	16148238	control	WUGSC	missing	public	run.zq,sra,sff	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846714	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790542	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125793462	GBAB-431-0125793462	stool	SRP051451					
+SRR1764609	AMPLICON	564	9245337	PRJNA264177	SAMN03264360	Metagenome or environmental	20605359	control	WUGSC	missing	public	sff,sra,run.zq	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846715	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790547	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125796774	GBAB-457-0125796774	stool	SRP051451					
+SRR1764610	AMPLICON	576	5962972	PRJNA264177	SAMN03264357	Metagenome or environmental	12927520	control	WUGSC	missing	public	sff,sra,run.zq	s3,ncbi,gs	s3.us-east-1,ncbi.public,gs.US	SRX846716	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790563	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	124129050	GBAB-457-0124129050	stool	SRP051451					
+SRR1764612	AMPLICON	570	10265501	PRJNA264177	SAMN03264312	Metagenome or environmental	22591926	control	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846717	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790564	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125799708	GBAB-416-0125799708	stool	SRP051451					
+SRR1764613	AMPLICON	573	7417023	PRJNA264177	SAMN03264362	Metagenome or environmental	16231388	control	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846718	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790541	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125796777	GBAB-457-0125796777	stool	SRP051451					
+SRR1764614	AMPLICON	245	1604492	PRJNA264177	SAMN03264315	Metagenome or environmental	4971705	control	WUGSC	missing	public	sra,run.zq,sff	s3,gs,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846719	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790518	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125793461	GBAB-431-0125793461	stool	SRP051451					
+SRR1764615	AMPLICON	569	1486242	PRJNA264177	SAMN03264343	Metagenome or environmental	3303260	case	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846720	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790554	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125793421	GBAB-444-0125793421	stool	SRP051451					
+SRR1764616	AMPLICON	571	10054278	PRJNA264177	SAMN03264318	Metagenome or environmental	21807065	case	WUGSC	missing	public	sff,sra,run.zq	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846721	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790559	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125792478	GBAB-434-0125792478	stool	SRP051451					
+SRR1764617	AMPLICON	574	3685912	PRJNA264177	SAMN03264331	Metagenome or environmental	7972127	control	WUGSC	missing	public	run.zq,sff,sra	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846722	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790508	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125793435	GBAB-436-0125793435	stool	SRP051451					
+SRR1764618	AMPLICON	574	10641870	PRJNA264177	SAMN03264366	Metagenome or environmental	23255118	control	WUGSC	missing	public	sff,sra,run.zq	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846723	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790505	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125800215	GBAB-457-0125800215	stool	SRP051451					
+SRR1764619	AMPLICON	571	9432812	PRJNA264177	SAMN03264345	Metagenome or environmental	20670139	case	WUGSC	missing	public	run.zq,sff,sra	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846724	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790562	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125793423	GBAB-444-0125793423	stool	SRP051451					
+SRR1764620	AMPLICON	570	7338808	PRJNA264177	SAMN03264323	Metagenome or environmental	16026761	case	WUGSC	missing	public	run.zq,sff,sra	s3,gs,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846725	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790516	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125793448	GBAB-434-0125793448	stool	SRP051451					
+SRR1764621	AMPLICON	569	5954111	PRJNA264177	SAMN03264317	Metagenome or environmental	12986570	case	WUGSC	missing	public	sff,run.zq,sra	s3,gs,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846726	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790546	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	124120172	GBAB-434-0124120172	stool	SRP051451					
+SRR1764622	AMPLICON	564	5695186	PRJNA264177	SAMN03264356	Metagenome or environmental	12612423	control	WUGSC	missing	public	sff,run.zq,sra	ncbi,s3,gs	s3.us-east-1,ncbi.public,gs.US	SRX846727	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790553	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:30:00Z	1	125799668	GBAB-453-0125799668	stool	SRP051451					
+SRR1764623	AMPLICON	569	10160892	PRJNA264177	SAMN03264347	Metagenome or environmental	22565929	case	WUGSC	missing	public	run.zq,sra,sff	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846728	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790537	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:31:00Z	1	125793425	GBAB-444-0125793425	stool	SRP051451					
+SRR1764624	AMPLICON	573	5488608	PRJNA264177	SAMN03264359	Metagenome or environmental	12033268	control	WUGSC	missing	public	run.zq,sff,sra	ncbi,gs,s3	ncbi.public,gs.US,s3.us-east-1	SRX846729	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790511	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:31:00Z	1	125796772	GBAB-457-0125796772	stool	SRP051451					
+SRR1764636	AMPLICON	572	11143233	PRJNA264177	SAMN03264338	Metagenome or environmental	24324621	control	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846740	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790497	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:33:00Z	1	125799681	GBAB-439-0125799681	stool	SRP051451					
+SRR1764637	AMPLICON	576	6380089	PRJNA264177	SAMN03264322	Metagenome or environmental	13924389	case	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	ncbi.public,s3.us-east-1,gs.US	SRX846741	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790532	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793447	GBAB-434-0125793447	stool	SRP051451					
+SRR1764638	AMPLICON	582	6704081	PRJNA264177	SAMN03264324	Metagenome or environmental	14703719	case	WUGSC	missing	public	run.zq,sff,sra	ncbi,s3,gs	s3.us-east-1,ncbi.public,gs.US	SRX846742	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790524	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793449	GBAB-434-0125793449	stool	SRP051451					
+SRR1764639	AMPLICON	564	7387738	PRJNA264177	SAMN03264329	Metagenome or environmental	16174591	case	WUGSC	missing	public	run.zq,sra,sff	ncbi,gs,s3	s3.us-east-1,ncbi.public,gs.US	SRX846743	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790529	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793467	GBAB-434-0125793467	stool	SRP051451					
+SRR1764640	AMPLICON	571	5858466	PRJNA264177	SAMN03264341	Metagenome or environmental	12857943	case	WUGSC	missing	public	sff,sra,run.zq	ncbi,gs,s3	s3.us-east-1,ncbi.public,gs.US	SRX846744	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790498	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	124120140	GBAB-444-0124120140	stool	SRP051451					
+SRR1764641	AMPLICON	575	7797795	PRJNA264177	SAMN03264325	Metagenome or environmental	17061050	case	WUGSC	missing	public	sra,sff,run.zq	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846745	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790558	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793450	GBAB-434-0125793450	stool	SRP051451					
+SRR1764642	AMPLICON	567	11003009	PRJNA264177	SAMN03264351	Metagenome or environmental	24117585	control	WUGSC	missing	public	run.zq,sff,sra	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846746	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790500	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793418	GBAB-453-0125793418	stool	SRP051451					
+SRR1764643	AMPLICON	574	7816934	PRJNA264177	SAMN03264348	Metagenome or environmental	17269196	case	WUGSC	missing	public	sff,sra,run.zq	gs,s3,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846747	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790538	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793426	GBAB-444-0125793426	stool	SRP051451					
+SRR1764644	AMPLICON	569	9149920	PRJNA264177	SAMN03264313	Metagenome or environmental	20050976	control	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846748	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790560	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125799725	GBAB-416-0125799725	stool	SRP051451					
+SRR1764645	AMPLICON	581	10602181	PRJNA264177	SAMN03264352	Metagenome or environmental	23156764	control	WUGSC	missing	public	sff,sra,run.zq	gs,s3,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846749	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790530	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793419	GBAB-453-0125793419	stool	SRP051451					
+SRR1764647	AMPLICON	574	4093602	PRJNA264177	SAMN03264340	Metagenome or environmental	9012514	case	WUGSC	missing	public	run.zq,sff,sra	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846750	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790510	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	124120130	GBAB-444-0124120130	stool	SRP051451					
+SRR1764648	AMPLICON	577	7615606	PRJNA264177	SAMN03264326	Metagenome or environmental	16407568	case	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	s3.us-east-1,ncbi.public,gs.US	SRX846751	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790517	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793451	GBAB-434-0125793451	stool	SRP051451					
+SRR1764649	AMPLICON	576	8583132	PRJNA264177	SAMN03264319	Metagenome or environmental	18518566	case	WUGSC	missing	public	run.zq,sra,sff	s3,ncbi,gs	ncbi.public,s3.us-east-1,gs.US	SRX846752	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790507	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793444	GBAB-434-0125793444	stool	SRP051451					
+SRR1764650	AMPLICON	567	3679635	PRJNA264177	SAMN03264328	Metagenome or environmental	8051875	case	WUGSC	missing	public	sra,run.zq,sff	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846753	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790551	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793455	GBAB-434-0125793455	stool	SRP051451					
+SRR1764651	AMPLICON	575	5628620	PRJNA264177	SAMN03264333	Metagenome or environmental	12103319	control	WUGSC	missing	public	sff,run.zq,sra	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846754	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790535	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	124119595	GBAB-439-0124119595	stool	SRP051451					
+SRR1764652	AMPLICON	577	7581007	PRJNA264177	SAMN03264264	Metagenome or environmental	16444203	control	WUGSC	missing	public	sff,run.zq,sra	s3,ncbi,gs	gs.US,ncbi.public,s3.us-east-1	SRX846755	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790336	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125796795	GBAB-396-0125796795	stool	SRP051451					
+SRR1764653	AMPLICON	564	5635567	PRJNA264177	SAMN03264361	Metagenome or environmental	12601265	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,s3,gs	gs.US,ncbi.public,s3.us-east-1	SRX846756	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790540	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125796776	GBAB-457-0125796776	stool	SRP051451					
+SRR1764654	AMPLICON	579	6342763	PRJNA264177	SAMN03264308	Metagenome or environmental	13872124	case	WUGSC	missing	public	sff,sra,run.zq	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846757	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790346	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793471	GBAB-408-0125793471	stool	SRP051451					
+SRR1764655	AMPLICON	574	7580160	PRJNA264177	SAMN03264258	Metagenome or environmental	16632379	case	WUGSC	missing	public	sff,sra,run.zq	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846758	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790364	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125797400	GBAB-395-0125797400	stool	SRP051451					
+SRR1764656	AMPLICON	575	7493373	PRJNA264177	SAMN03264304	Metagenome or environmental	16308376	control	WUGSC	missing	public	sff,run.zq,sra	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846759	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790403	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793491	GBAB-406-0125793491	stool	SRP051451					
+SRR1764657	AMPLICON	448	1601683	PRJNA264177	SAMN03264301	Metagenome or environmental	3930060	control	WUGSC	missing	public	sff,sra,run.zq	s3,gs,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846760	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790398	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:35:00Z	1	125793488	GBAB-406-0125793488	stool	SRP051451					
+SRR1764658	AMPLICON	579	5336922	PRJNA264177	SAMN03264305	Metagenome or environmental	11601262	control	WUGSC	missing	public	run.zq,sra,sff	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846761	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790360	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125799661	GBAB-406-0125799661	stool	SRP051451					
+SRR1764659	AMPLICON	574	7314107	PRJNA264177	SAMN03264257	Metagenome or environmental	16053875	case	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	s3.us-east-1,gs.US,ncbi.public	SRX846762	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790373	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125797383	GBAB-395-0125797383	stool	SRP051451					
+SRR1764660	AMPLICON	578	6897562	PRJNA264177	SAMN03264262	Metagenome or environmental	14993988	case	WUGSC	missing	public	sff,run.zq,sra	gs,s3,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846763	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790362	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125800856	GBAB-395-0125800856	stool	SRP051451					
+SRR1764661	AMPLICON	558	5922297	PRJNA264177	SAMN03264270	Metagenome or environmental	13389658	control	WUGSC	missing	public	run.zq,sff,sra	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846764	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790386	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125796804	GBAB-396-0125796804	stool	SRP051451					
+SRR1764662	AMPLICON	572	5163104	PRJNA264177	SAMN03264276	Metagenome or environmental	11611569	control	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846765	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790330	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125796802	GBAB-397-0125796802	stool	SRP051451					
+SRR1764663	AMPLICON	578	8302395	PRJNA264177	SAMN03264265	Metagenome or environmental	17982093	control	WUGSC	missing	public	sff,run.zq,sra	s3,gs,ncbi	gs.US,s3.us-east-1,ncbi.public	SRX846766	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790365	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125796796	GBAB-396-0125796796	stool	SRP051451					
+SRR1764664	AMPLICON	578	7335334	PRJNA264177	SAMN03264272	Metagenome or environmental	16036957	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	s3.us-east-1,ncbi.public,gs.US	SRX846767	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790374	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125797401	GBAB-396-0125797401	stool	SRP051451					
+SRR1764666	AMPLICON	569	7491200	PRJNA264177	SAMN03264289	Metagenome or environmental	16654032	case	WUGSC	missing	public	run.zq,sra,sff	ncbi,s3,gs	gs.US,s3.us-east-1,ncbi.public	SRX846768	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790359	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125796784	GBAB-404-0125796784	stool	SRP051451					
+SRR1764667	AMPLICON	565	7467930	PRJNA264177	SAMN03264290	Metagenome or environmental	16564508	case	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	ncbi.public,gs.US,s3.us-east-1	SRX846770	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790383	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125796785	GBAB-404-0125796785	stool	SRP051451					
+SRR1764668	AMPLICON	564	4392648	PRJNA264177	SAMN03264274	Metagenome or environmental	9922504	control	WUGSC	missing	public	sff,sra,run.zq	s3,ncbi,gs	ncbi.public,gs.US,s3.us-east-1	SRX846771	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790406	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125796791	GBAB-397-0125796791	stool	SRP051451					
+SRR1764669	AMPLICON	578	6512196	PRJNA264177	SAMN03264255	Metagenome or environmental	14145032	case	WUGSC	missing	public	sff,sra,run.zq	gs,s3,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846772	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790332	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125796827	GBAB-395-0125796827	stool	SRP051451					
+SRR1764670	AMPLICON	576	7075414	PRJNA264177	SAMN03264256	Metagenome or environmental	15399579	case	WUGSC	missing	public	sra,run.zq,sff	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846773	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790356	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:36:00Z	1	125797358	GBAB-395-0125797358	stool	SRP051451					
+SRR1764671	AMPLICON	577	6121476	PRJNA264177	SAMN03264267	Metagenome or environmental	13364654	control	WUGSC	missing	public	sff,sra,run.zq	gs,s3,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846774	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790382	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:37:00Z	1	125796798	GBAB-396-0125796798	stool	SRP051451					
+SRR1764672	AMPLICON	573	8511148	PRJNA264177	SAMN03264292	Metagenome or environmental	18649295	case	WUGSC	missing	public	sra,run.zq,sff	gs,ncbi,s3	gs.US,ncbi.public,s3.us-east-1	SRX846775	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790402	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:37:00Z	1	125799683	GBAB-404-0125799683	stool	SRP051451					
+SRR1764673	AMPLICON	578	7198097	PRJNA264177	SAMN03264263	Metagenome or environmental	15638173	case	WUGSC	missing	public	sra,run.zq,sff	gs,s3,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846776	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790345	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:37:00Z	1	125800857	GBAB-395-0125800857	stool	SRP051451					
+SRR1764674	AMPLICON	577	7446573	PRJNA264177	SAMN03264266	Metagenome or environmental	16193817	control	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846777	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790342	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:37:00Z	1	125796797	GBAB-396-0125796797	stool	SRP051451					
+SRR1764675	AMPLICON	575	6574408	PRJNA264177	SAMN03264293	Metagenome or environmental	14224423	case	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846778	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790387	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:37:00Z	1	125799692	GBAB-404-0125799692	stool	SRP051451					
+SRR1764676	AMPLICON	577	7296263	PRJNA264177	SAMN03264259	Metagenome or environmental	15895088	case	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	s3.us-east-1,ncbi.public,gs.US	SRX846779	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790353	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:37:00Z	1	125799660	GBAB-395-0125799660	stool	SRP051451					
+SRR1764677	AMPLICON	572	7674796	PRJNA264177	SAMN03264288	Metagenome or environmental	16976319	case	WUGSC	missing	public	sra,run.zq,sff	ncbi,s3,gs	gs.US,ncbi.public,s3.us-east-1	SRX846780	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790392	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:37:00Z	1	125796783	GBAB-404-0125796783	stool	SRP051451					
+SRR1764678	AMPLICON	576	5986096	PRJNA264177	SAMN03264302	Metagenome or environmental	13003998	control	WUGSC	missing	public	sff,sra,run.zq	ncbi,s3,gs	gs.US,ncbi.public,s3.us-east-1	SRX846781	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790396	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:37:00Z	1	125793489	GBAB-406-0125793489	stool	SRP051451					
+SRR1764679	AMPLICON	579	4467037	PRJNA264177	SAMN03264297	Metagenome or environmental	9708548	control	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846782	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790376	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:37:00Z	1	125799653	GBAB-405-0125799653	stool	SRP051451					
+SRR1764699	AMPLICON	581	6323041	PRJNA264177	SAMN03264294	Metagenome or environmental	13715361	control	WUGSC	missing	public	run.zq,sff,sra	s3,gs,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846783	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790377	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:48:00Z	1	125792513	GBAB-405-0125792513	stool	SRP051451					
+SRR1764700	AMPLICON	572	5800419	PRJNA264177	SAMN03264287	Metagenome or environmental	12725004	case	WUGSC	missing	public	sff,sra,run.zq	ncbi,gs,s3	gs.US,ncbi.public,s3.us-east-1	SRX846784	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790408	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:50:00Z	1	125796782	GBAB-404-0125796782	stool	SRP051451					
+SRR1764701	AMPLICON	573	6356207	PRJNA264177	SAMN03264275	Metagenome or environmental	14221287	control	WUGSC	missing	public	run.zq,sff,sra	s3,gs,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846785	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790348	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:50:00Z	1	125796801	GBAB-397-0125796801	stool	SRP051451					
+SRR1764702	AMPLICON	580	7245367	PRJNA264177	SAMN03264296	Metagenome or environmental	15683741	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,gs,s3	s3.us-east-1,ncbi.public,gs.US	SRX846786	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790363	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:50:00Z	1	125793493	GBAB-405-0125793493	stool	SRP051451					
+SRR1764703	AMPLICON	582	6041302	PRJNA264177	SAMN03264299	Metagenome or environmental	13135540	control	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846787	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790333	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:50:00Z	1	125792527	GBAB-406-0125792527	stool	SRP051451					
+SRR1764704	AMPLICON	575	6200789	PRJNA264177	SAMN03264300	Metagenome or environmental	13596934	control	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846788	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790412	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:50:00Z	1	125793475	GBAB-406-0125793475	stool	SRP051451					
+SRR1764705	AMPLICON	572	7435164	PRJNA264177	SAMN03264269	Metagenome or environmental	16324526	control	WUGSC	missing	public	sff,sra,run.zq	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846790	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790379	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:51:00Z	1	125796800	GBAB-396-0125796800	stool	SRP051451					
+SRR1764706	AMPLICON	576	7297194	PRJNA264177	SAMN03264285	Metagenome or environmental	15801704	case	WUGSC	missing	public	sra,sff,run.zq	s3,ncbi,gs	ncbi.public,s3.us-east-1,gs.US	SRX846791	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790351	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:50:00Z	1	125793501	GBAB-404-0125793501	stool	SRP051451					
+SRR1764707	AMPLICON	577	6101857	PRJNA264177	SAMN03264261	Metagenome or environmental	13273275	case	WUGSC	missing	public	sra,sff,run.zq	s3,gs,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846792	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790385	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:50:00Z	1	125800855	GBAB-395-0125800855	stool	SRP051451					
+SRR1764708	AMPLICON	577	6187838	PRJNA264177	SAMN03264268	Metagenome or environmental	13482449	control	WUGSC	missing	public	run.zq,sra,sff	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846793	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790352	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:50:00Z	1	125796799	GBAB-396-0125796799	stool	SRP051451					
+SRR1764709	AMPLICON	572	8643847	PRJNA264177	SAMN03264280	Metagenome or environmental	19109522	case	WUGSC	missing	public	sff,run.zq,sra	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846794	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790341	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:51:00Z	1	125793494	GBAB-404-0125793494	stool	SRP051451					
+SRR1764711	AMPLICON	573	8296675	PRJNA264177	SAMN03264310	Metagenome or environmental	18329907	control	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846795	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790395	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:50:00Z	1	125793460	GBAB-416-0125793460	stool	SRP051451					
+SRR1764712	AMPLICON	581	5819182	PRJNA264177	SAMN03264273	Metagenome or environmental	12645417	control	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846796	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790334	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:52:00Z	1	125797406	GBAB-396-0125797406	stool	SRP051451					
+SRR1764713	AMPLICON	575	8721149	PRJNA264177	SAMN03264282	Metagenome or environmental	19068927	case	WUGSC	missing	public	sra,run.zq,sff	s3,gs,ncbi	gs.US,s3.us-east-1,ncbi.public	SRX846797	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790391	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:52:00Z	1	125793496	GBAB-404-0125793496	stool	SRP051451					
+SRR1764714	AMPLICON	576	6230142	PRJNA264177	SAMN03264303	Metagenome or environmental	13488240	control	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	gs.US,ncbi.public,s3.us-east-1	SRX846798	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790357	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:52:00Z	1	125793490	GBAB-406-0125793490	stool	SRP051451					
+SRR1764715	AMPLICON	573	7932511	PRJNA264177	SAMN03264281	Metagenome or environmental	17532379	case	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	gs.US,s3.us-east-1,ncbi.public	SRX846799	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790372	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:52:00Z	1	125793495	GBAB-404-0125793495	stool	SRP051451					
+SRR1764716	AMPLICON	577	7077157	PRJNA264177	SAMN03264283	Metagenome or environmental	15442862	case	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	ncbi.public,gs.US,s3.us-east-1	SRX846800	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790361	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:52:00Z	1	125793497	GBAB-404-0125793497	stool	SRP051451					
+SRR1764717	AMPLICON	575	7278849	PRJNA264177	SAMN03264291	Metagenome or environmental	15961347	case	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846801	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790369	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:52:00Z	1	125797403	GBAB-404-0125797403	stool	SRP051451					
+SRR1764718	AMPLICON	580	6613638	PRJNA264177	SAMN03264298	Metagenome or environmental	14425806	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,gs,s3	gs.US,ncbi.public,s3.us-east-1	SRX846802	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790337	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:52:00Z	1	124117607	GBAB-406-0124117607	stool	SRP051451					
+SRR1764719	AMPLICON	576	7209784	PRJNA264177	SAMN03264279	Metagenome or environmental	15643238	case	WUGSC	missing	public	run.zq,sra,sff	s3,ncbi,gs	s3.us-east-1,gs.US,ncbi.public	SRX846803	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790401	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:52:00Z	1	124120218	GBAB-404-0124120218	stool	SRP051451					
+SRR1764720	AMPLICON	571	3716564	PRJNA264177	SAMN03264311	Metagenome or environmental	8298409	control	WUGSC	missing	public	sff,run.zq,sra	gs,ncbi,s3	ncbi.public,gs.US,s3.us-east-1	SRX846804	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790378	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:52:00Z	1	125793468	GBAB-416-0125793468	stool	SRP051451					
+SRR1764721	AMPLICON	583	5769254	PRJNA264177	SAMN03264307	Metagenome or environmental	12577087	case	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	s3.us-east-1,gs.US,ncbi.public	SRX846805	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790370	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:52:00Z	1	125793470	GBAB-408-0125793470	stool	SRP051451					
+SRR1764722	AMPLICON	578	6940795	PRJNA264177	SAMN03264271	Metagenome or environmental	15004782	control	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846806	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790338	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:53:00Z	1	125797377	GBAB-396-0125797377	stool	SRP051451					
+SRR1764723	AMPLICON	583	6241757	PRJNA264177	SAMN03264306	Metagenome or environmental	13615436	control	WUGSC	missing	public	run.zq,sff,sra	gs,s3,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846807	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790347	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:53:00Z	1	125799707	GBAB-406-0125799707	stool	SRP051451					
+SRR1764724	AMPLICON	580	6235781	PRJNA264177	SAMN03264277	Metagenome or environmental	13905328	control	WUGSC	missing	public	run.zq,sra,sff	ncbi,s3,gs	gs.US,s3.us-east-1,ncbi.public	SRX846808	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790349	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:53:00Z	1	125797405	GBAB-397-0125797405	stool	SRP051451					
+SRR1764725	AMPLICON	577	6659329	PRJNA264177	SAMN03264284	Metagenome or environmental	14407747	case	WUGSC	missing	public	sra,run.zq,sff	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846810	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790354	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:53:00Z	1	125793499	GBAB-404-0125793499	stool	SRP051451					
+SRR1764727	AMPLICON	580	7489148	PRJNA264177	SAMN03264295	Metagenome or environmental	16194910	control	WUGSC	missing	public	sra,run.zq,sff	s3,gs,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846811	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790344	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:53:00Z	1	125793492	GBAB-405-0125793492	stool	SRP051451					
+SRR1764728	AMPLICON	576	8587927	PRJNA264177	SAMN03264278	Metagenome or environmental	18750588	case	WUGSC	missing	public	sra,run.zq,sff	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846812	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790394	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:53:00Z	1	124119598	GBAB-404-0124119598	stool	SRP051451					
+SRR1764729	AMPLICON	579	7017025	PRJNA264177	SAMN03264260	Metagenome or environmental	15251563	case	WUGSC	missing	public	run.zq,sff,sra	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846813	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2887790358	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:53:00Z	1	125800854	GBAB-395-0125800854	stool	SRP051451					
+SRR1764730	AMPLICON	573	6566264	PRJNA264177	SAMN03264309	Metagenome or environmental	14511181	control	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	ncbi.public,gs.US,s3.us-east-1	SRX846814	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2887790380	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:53:00Z	1	125792502	GBAB-416-0125792502	stool	SRP051451					
+SRR1764731	AMPLICON	572	4258421	PRJNA264177	SAMN03264100	Metagenome or environmental	9284954	control	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846815	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425206	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:53:00Z	1	124119119	GBAB-127-0124119119	stool	SRP051451					
+SRR1764732	AMPLICON	577	17297702	PRJNA264177	SAMN03264078	Metagenome or environmental	37326414	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	gs.US,s3.us-east-1,ncbi.public	SRX846816	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425188	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:53:00Z	1	124119151	GBAB-110-0124119151	stool	SRP051451					
+SRR1764733	AMPLICON	578	3567832	PRJNA264177	SAMN03264066	Metagenome or environmental	7752223	control	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	ncbi.public,s3.us-east-1,gs.US	SRX846817	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425182	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:53:00Z	1	124119159	GBAB-109-0124119159	stool	SRP051451					
+SRR1764735	AMPLICON	574	3801020	PRJNA264177	SAMN03264149	Metagenome or environmental	8267771	control	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846818	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425228	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:54:00Z	1	124119100	GBAB-197-0124119100	stool	SRP051451					
+SRR1764736	AMPLICON	574	3043357	PRJNA264177	SAMN03264095	Metagenome or environmental	6568322	control	WUGSC	missing	public	sra,run.zq,sff	gs,ncbi,s3	s3.us-east-1,ncbi.public,gs.US	SRX846819	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425198	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:54:00Z	1	124119120	GBAB-126-0124119120	stool	SRP051451					
+SRR1764737	AMPLICON	574	8646909	PRJNA264177	SAMN03264069	Metagenome or environmental	18784657	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	gs.US,ncbi.public,s3.us-east-1	SRX846820	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425169	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:54:00Z	1	124119162	GBAB-109-0124119162	stool	SRP051451					
+SRR1764738	AMPLICON	563	1410308	PRJNA264177	SAMN03264088	Metagenome or environmental	3096381	control	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	s3.us-east-1,gs.US,ncbi.public	SRX846821	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425184	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:54:00Z	1	124119138	GBAB-111-0124119138	stool	SRP051451					
+SRR1764739	AMPLICON	573	7364336	PRJNA264177	SAMN03264154	Metagenome or environmental	16274004	control	WUGSC	missing	public	sff,run.zq,sra	ncbi,gs,s3	s3.us-east-1,gs.US,ncbi.public	SRX846822	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425164	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:54:00Z	1	124119110	GBAB-197-0124119110	stool	SRP051451					
+SRR1764740	AMPLICON	576	3531099	PRJNA264177	SAMN03264157	Metagenome or environmental	7691381	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,s3,gs	gs.US,s3.us-east-1,ncbi.public	SRX846823	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425172	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:54:00Z	1	124119089	GBAB-198-0124119089	stool	SRP051451					
+SRR1764741	AMPLICON	572	17086400	PRJNA264177	SAMN03264072	Metagenome or environmental	37271620	control	WUGSC	missing	public	run.zq,sra,sff	gs,ncbi,s3	gs.US,ncbi.public,s3.us-east-1	SRX846824	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425177	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:54:00Z	1	124118029	GBAB-110-0124118029	stool	SRP051451					
+SRR1764742	AMPLICON	575	7303655	PRJNA264177	SAMN03264103	Metagenome or environmental	15861673	control	WUGSC	missing	public	sff,run.zq,sra	s3,ncbi,gs	ncbi.public,gs.US,s3.us-east-1	SRX846825	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425229	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:54:00Z	1	124119113	GBAB-129-0124119113	stool	SRP051451					
+SRR1764743	AMPLICON	570	6883474	PRJNA264177	SAMN03264086	Metagenome or environmental	14926443	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,s3,gs	s3.us-east-1,ncbi.public,gs.US	SRX846826	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425222	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:54:00Z	1	124119136	GBAB-111-0124119136	stool	SRP051451					
+SRR1764744	AMPLICON	573	10881361	PRJNA264177	SAMN03264068	Metagenome or environmental	23689961	control	WUGSC	missing	public	sff,run.zq,sra	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846827	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425231	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:55:00Z	1	124119161	GBAB-109-0124119161	stool	SRP051451					
+SRR1764745	AMPLICON	574	3592205	PRJNA264177	SAMN03264070	Metagenome or environmental	7919259	control	WUGSC	missing	public	sff,run.zq,sra	ncbi,gs,s3	ncbi.public,gs.US,s3.us-east-1	SRX846829	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425194	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119163	GBAB-109-0124119163	stool	SRP051451					
+SRR1764746	AMPLICON	578	8112626	PRJNA264177	SAMN03264102	Metagenome or environmental	17574041	control	WUGSC	missing	public	sff,run.zq,sra	s3,ncbi,gs	gs.US,ncbi.public,s3.us-east-1	SRX846830	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425232	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119131	GBAB-127-0124119131	stool	SRP051451					
+SRR1764747	AMPLICON	574	9057146	PRJNA264177	SAMN03264097	Metagenome or environmental	19774709	control	WUGSC	missing	public	sff,sra,run.zq	s3,ncbi,gs	gs.US,ncbi.public,s3.us-east-1	SRX846831	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425196	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119122	GBAB-126-0124119122	stool	SRP051451					
+SRR1764748	AMPLICON	574	7853491	PRJNA264177	SAMN03264106	Metagenome or environmental	17024438	control	WUGSC	missing	public	sff,run.zq,sra	gs,s3,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846832	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425225	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119116	GBAB-129-0124119116	stool	SRP051451					
+SRR1764749	AMPLICON	572	3365328	PRJNA264177	SAMN03264146	Metagenome or environmental	7302019	control	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846833	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425190	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119097	GBAB-197-0124119097	stool	SRP051451					
+SRR1764750	AMPLICON	578	4337011	PRJNA264177	SAMN03264148	Metagenome or environmental	9431469	control	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846834	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425201	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119099	GBAB-197-0124119099	stool	SRP051451					
+SRR1764751	AMPLICON	578	1129064	PRJNA264177	SAMN03264101	Metagenome or environmental	2458320	control	WUGSC	missing	public	sra,sff,run.zq	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846835	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425167	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119127	GBAB-127-0124119127	stool	SRP051451					
+SRR1764752	AMPLICON	570	13518466	PRJNA264177	SAMN03264080	Metagenome or environmental	29403114	control	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846836	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425223	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119153	GBAB-110-0124119153	stool	SRP051451					
+SRR1764753	AMPLICON	569	2769443	PRJNA264177	SAMN03264084	Metagenome or environmental	6071284	control	WUGSC	missing	public	sra,run.zq,sff	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846837	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425189	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119134	GBAB-111-0124119134	stool	SRP051451					
+SRR1764754	AMPLICON	576	5309701	PRJNA264177	SAMN03264145	Metagenome or environmental	11460794	control	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846838	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425165	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119096	GBAB-197-0124119096	stool	SRP051451					
+SRR1764756	AMPLICON	575	4821011	PRJNA264177	SAMN03264150	Metagenome or environmental	10428057	control	WUGSC	missing	public	run.zq,sra,sff	s3,ncbi,gs	ncbi.public,s3.us-east-1,gs.US	SRX846839	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425174	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119102	GBAB-197-0124119102	stool	SRP051451					
+SRR1764757	AMPLICON	565	3369646	PRJNA264177	SAMN03264082	Metagenome or environmental	7536409	control	WUGSC	missing	public	sff,run.zq,sra	s3,ncbi,gs	gs.US,ncbi.public,s3.us-east-1	SRX846840	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425163	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124118105	GBAB-111-0124118105	stool	SRP051451					
+SRR1764758	AMPLICON	573	10712216	PRJNA264177	SAMN03264075	Metagenome or environmental	23149940	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846841	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425205	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:56:00Z	1	124119148	GBAB-110-0124119148	stool	SRP051451					
+SRR1764759	AMPLICON	572	2378285	PRJNA264177	SAMN03264089	Metagenome or environmental	5191789	control	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846842	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425218	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119139	GBAB-111-0124119139	stool	SRP051451					
+SRR1764760	AMPLICON	570	7976214	PRJNA264177	SAMN03264098	Metagenome or environmental	17420997	control	WUGSC	missing	public	run.zq,sff,sra	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846843	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425183	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119123	GBAB-126-0124119123	stool	SRP051451					
+SRR1764761	AMPLICON	581	5467917	PRJNA264177	SAMN03264156	Metagenome or environmental	11782513	control	WUGSC	missing	public	sff,sra,run.zq	ncbi,s3,gs	s3.us-east-1,gs.US,ncbi.public	SRX846844	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425195	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119088	GBAB-198-0124119088	stool	SRP051451					
+SRR1764762	AMPLICON	571	6934150	PRJNA264177	SAMN03264107	Metagenome or environmental	15080456	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846845	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425166	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119117	GBAB-129-0124119117	stool	SRP051451					
+SRR1764763	AMPLICON	573	13543677	PRJNA264177	SAMN03264081	Metagenome or environmental	29649192	control	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846846	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425224	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119156	GBAB-110-0124119156	stool	SRP051451					
+SRR1764764	AMPLICON	573	7510321	PRJNA264177	SAMN03264152	Metagenome or environmental	16305520	control	WUGSC	missing	public	run.zq,sra,sff	s3,ncbi,gs	ncbi.public,gs.US,s3.us-east-1	SRX846847	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425192	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119104	GBAB-197-0124119104	stool	SRP051451					
+SRR1764765	AMPLICON	576	3810142	PRJNA264177	SAMN03264153	Metagenome or environmental	8311474	control	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846848	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425221	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119109	GBAB-197-0124119109	stool	SRP051451					
+SRR1764766	AMPLICON	566	7570388	PRJNA264177	SAMN03264105	Metagenome or environmental	16513970	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	gs.US,s3.us-east-1,ncbi.public	SRX846849	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425191	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119115	GBAB-129-0124119115	stool	SRP051451					
+SRR1764767	AMPLICON	573	16065300	PRJNA264177	SAMN03264079	Metagenome or environmental	34897786	control	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	s3.us-east-1,ncbi.public,gs.US	SRX846850	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425178	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119152	GBAB-110-0124119152	stool	SRP051451					
+SRR1764768	AMPLICON	570	1498610	PRJNA264177	SAMN03264093	Metagenome or environmental	3300009	control	WUGSC	missing	public	run.zq,sff,sra	ncbi,gs,s3	ncbi.public,gs.US,s3.us-east-1	SRX846851	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425217	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119143	GBAB-111-0124119143	stool	SRP051451					
+SRR1764769	AMPLICON	557	1089541	PRJNA264177	SAMN03264090	Metagenome or environmental	2414028	control	WUGSC	missing	public	run.zq,sff,sra	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846852	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425185	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119140	GBAB-111-0124119140	stool	SRP051451					
+SRR1764770	AMPLICON	570	2235242	PRJNA264177	SAMN03264077	Metagenome or environmental	4874106	control	WUGSC	missing	public	sff,sra,run.zq	ncbi,s3,gs	gs.US,ncbi.public,s3.us-east-1	SRX846853	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425233	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T15:57:00Z	1	124119150	GBAB-110-0124119150	stool	SRP051451					
+SRR1764869	AMPLICON	570	12991986	PRJNA264177	SAMN03264073	Metagenome or environmental	28477320	control	WUGSC	missing	public	sra,sff,run.zq	s3,ncbi,gs	ncbi.public,gs.US,s3.us-east-1	SRX846854	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425215	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:11:00Z	1	124119145	GBAB-110-0124119145	stool	SRP051451					
+SRR1764870	AMPLICON	575	6316811	PRJNA264177	SAMN03264151	Metagenome or environmental	13563886	control	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	ncbi.public,s3.us-east-1,gs.US	SRX846855	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425214	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:11:00Z	1	124119103	GBAB-197-0124119103	stool	SRP051451					
+SRR1764871	AMPLICON	578	1926924	PRJNA264177	SAMN03264099	Metagenome or environmental	4179309	control	WUGSC	missing	public	sff,sra,run.zq	s3,gs,ncbi	gs.US,s3.us-east-1,ncbi.public	SRX846867	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425207	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:11:00Z	1	124119129	GBAB-126-0124119129	stool	SRP051451					
+SRR1764872	AMPLICON	570	4767917	PRJNA264177	SAMN03264085	Metagenome or environmental	10380959	control	WUGSC	missing	public	sff,sra,run.zq	ncbi,gs,s3	gs.US,s3.us-east-1,ncbi.public	SRX846868	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425168	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:11:00Z	1	124119135	GBAB-111-0124119135	stool	SRP051451					
+SRR1764873	AMPLICON	572	7098358	PRJNA264177	SAMN03264147	Metagenome or environmental	15451202	control	WUGSC	missing	public	run.zq,sff,sra	ncbi,s3,gs	s3.us-east-1,ncbi.public,gs.US	SRX846869	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425213	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:11:00Z	1	124119098	GBAB-197-0124119098	stool	SRP051451					
+SRR1764874	AMPLICON	569	2439980	PRJNA264177	SAMN03264091	Metagenome or environmental	5309465	control	WUGSC	missing	public	run.zq,sff,sra	s3,gs,ncbi	gs.US,s3.us-east-1,ncbi.public	SRX846870	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425180	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	124119141	GBAB-111-0124119141	stool	SRP051451					
+SRR1764879	AMPLICON	571	3790301	PRJNA264177	SAMN03264087	Metagenome or environmental	8214994	control	WUGSC	missing	public	sff,run.zq,sra	s3,gs,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846875	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425219	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:11:00Z	1	124119137	GBAB-111-0124119137	stool	SRP051451					
+SRR1764880	AMPLICON	578	1793546	PRJNA264177	SAMN03264071	Metagenome or environmental	4038523	control	WUGSC	missing	public	sff,run.zq,sra	s3,gs,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846877	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425208	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	124119164	GBAB-109-0124119164	stool	SRP051451					
+SRR1764881	AMPLICON	572	8818041	PRJNA264177	SAMN03264067	Metagenome or environmental	19139965	control	WUGSC	missing	public	sra,sff,run.zq	gs,ncbi,s3	ncbi.public,s3.us-east-1,gs.US	SRX846876	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425212	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	124119160	GBAB-109-0124119160	stool	SRP051451					
+SRR1764882	AMPLICON	574	882419	PRJNA264177	SAMN03264092	Metagenome or environmental	1936990	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846878	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425220	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	124119142	GBAB-111-0124119142	stool	SRP051451					
+SRR1764883	AMPLICON	577	8013561	PRJNA264177	SAMN03264074	Metagenome or environmental	17370780	control	WUGSC	missing	public	sff,run.zq,sra	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846879	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425230	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	124119147	GBAB-110-0124119147	stool	SRP051451					
+SRR1764884	AMPLICON	572	9009749	PRJNA264177	SAMN03264076	Metagenome or environmental	19480701	control	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	ncbi.public,gs.US,s3.us-east-1	SRX846880	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425187	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	124119149	GBAB-110-0124119149	stool	SRP051451					
+SRR1764885	AMPLICON	579	3502468	PRJNA264177	SAMN03264209	Metagenome or environmental	7631306	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	gs.US,s3.us-east-1,ncbi.public	SRX846881	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439228	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	125797424	GBAB-247-0125797424	stool	SRP051451					
+SRR1764886	AMPLICON	577	4828932	PRJNA264177	SAMN03264254	Metagenome or environmental	10551350	case	WUGSC	missing	public	sra,run.zq,sff	gs,s3,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846882	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439267	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	125796821	GBAB-395-0125796821	stool	SRP051451					
+SRR1764887	AMPLICON	568	2454469	PRJNA264177	SAMN03264159	Metagenome or environmental	5438574	control	WUGSC	missing	public	sff,sra,run.zq	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846883	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439213	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:13:00Z	1	124119091	GBAB-198-0124119091	stool	SRP051451					
+SRR1764888	AMPLICON	571	5067717	PRJNA264177	SAMN03264205	Metagenome or environmental	11058398	control	WUGSC	missing	public	run.zq,sff,sra	s3,gs,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846884	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439225	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	124119081	GBAB-247-0124119081	stool	SRP051451					
+SRR1764889	AMPLICON	576	2994558	PRJNA264177	SAMN03264166	Metagenome or environmental	6559225	control	WUGSC	missing	public	run.zq,sff,sra	s3,gs,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846885	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439058	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	124119107	GBAB-198-0124119107	stool	SRP051451					
+SRR1764890	AMPLICON	571	2239153	PRJNA264177	SAMN03264203	Metagenome or environmental	4928688	control	WUGSC	missing	public	sra,run.zq,sff	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846886	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439216	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	124119085	GBAB-242-0124119085	stool	SRP051451					
+SRR1764891	AMPLICON	572	6311548	PRJNA264177	SAMN03264253	Metagenome or environmental	13891388	case	WUGSC	missing	public	run.zq,sff,sra	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846887	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439268	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:12:00Z	1	125796811	GBAB-395-0125796811	stool	SRP051451					
+SRR1764892	AMPLICON	576	4022101	PRJNA264177	SAMN03264244	Metagenome or environmental	8768341	control	WUGSC	missing	public	sff,sra,run.zq	s3,gs,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846888	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439261	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:13:00Z	1	125797427	GBAB-366-0125797427	stool	SRP051451					
+SRR1764893	AMPLICON	579	4435417	PRJNA264177	SAMN03264251	Metagenome or environmental	9759084	case	WUGSC	missing	public	sff,sra,run.zq	gs,s3,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846889	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439270	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:13:00Z	1	125796809	GBAB-395-0125796809	stool	SRP051451					
+SRR1764894	AMPLICON	574	2708437	PRJNA264177	SAMN03264221	Metagenome or environmental	5914407	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	ncbi.public,gs.US,s3.us-east-1	SRX846890	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439234	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:13:00Z	1	125797426	GBAB-314-0125797426	stool	SRP051451					
+SRR1764895	AMPLICON	580	4071390	PRJNA264177	SAMN03264096	Metagenome or environmental	8834851	control	WUGSC	missing	public	sra,run.zq,sff	gs,ncbi,s3	gs.US,s3.us-east-1,ncbi.public	SRX846866	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888425173	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:13:00Z	1	124119121	GBAB-126-0124119121	stool	SRP051451					
+SRR1764896	AMPLICON	581	3819811	PRJNA264177	SAMN03264158	Metagenome or environmental	8365777	control	WUGSC	missing	public	sff,run.zq,sra	ncbi,s3,gs	ncbi.public,s3.us-east-1,gs.US	SRX846891	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439214	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:13:00Z	1	124119090	GBAB-198-0124119090	stool	SRP051451					
+SRR1764897	AMPLICON	575	5555396	PRJNA264177	SAMN03264250	Metagenome or environmental	12234801	case	WUGSC	missing	public	sff,run.zq,sra	ncbi,gs,s3	s3.us-east-1,gs.US,ncbi.public	SRX846892	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439271	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:13:00Z	1	125796808	GBAB-395-0125796808	stool	SRP051451					
+SRR1764898	AMPLICON	575	3797750	PRJNA264177	SAMN03264225	Metagenome or environmental	8365461	control	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846893	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439242	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:13:00Z	1	125796033	GBAB-315-0125796033	stool	SRP051451					
+SRR1764899	AMPLICON	570	6102397	PRJNA264177	SAMN03264227	Metagenome or environmental	13414908	control	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846894	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439241	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:13:00Z	1	125797376	GBAB-315-0125797376	stool	SRP051451					
+SRR1764900	AMPLICON	570	2720747	PRJNA264177	SAMN03264222	Metagenome or environmental	5966700	control	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	s3.us-east-1,ncbi.public,gs.US	SRX846895	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439236	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:13:00Z	1	125797430	GBAB-314-0125797430	stool	SRP051451					
+SRR1764901	AMPLICON	567	2790255	PRJNA264177	SAMN03264226	Metagenome or environmental	6161757	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,gs,s3	ncbi.public,gs.US,s3.us-east-1	SRX846896	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439238	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:14:00Z	1	125796038	GBAB-315-0125796038	stool	SRP051451					
+SRR1764902	AMPLICON	572	5059695	PRJNA264177	SAMN03264243	Metagenome or environmental	11115394	control	WUGSC	missing	public	run.zq,sff,sra	ncbi,s3,gs	ncbi.public,s3.us-east-1,gs.US	SRX846897	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439264	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:14:00Z	1	125797425	GBAB-366-0125797425	stool	SRP051451					
+SRR1764903	AMPLICON	574	6922915	PRJNA264177	SAMN03264246	Metagenome or environmental	15098345	control	WUGSC	missing	public	run.zq,sff,sra	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846898	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439265	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:14:00Z	1	125800851	GBAB-366-0125800851	stool	SRP051451					
+SRR1764904	AMPLICON	558	2829219	PRJNA264177	SAMN03264207	Metagenome or environmental	6252128	control	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	ncbi.public,gs.US,s3.us-east-1	SRX846899	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439230	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:14:00Z	1	125796860	GBAB-247-0125796860	stool	SRP051451					
+SRR1764905	AMPLICON	579	4433430	PRJNA264177	SAMN03264223	Metagenome or environmental	9678440	control	WUGSC	missing	public	sff,sra,run.zq	gs,ncbi,s3	gs.US,ncbi.public,s3.us-east-1	SRX846900	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439240	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:14:00Z	1	125796009	GBAB-315-0125796009	stool	SRP051451					
+SRR1764906	AMPLICON	569	2512134	PRJNA264177	SAMN03264161	Metagenome or environmental	5553713	control	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	s3.us-east-1,ncbi.public,gs.US	SRX846901	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439061	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:14:00Z	1	124119093	GBAB-198-0124119093	stool	SRP051451					
+SRR1764907	AMPLICON	555	1779991	PRJNA264177	SAMN03264231	Metagenome or environmental	4013694	case	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846902	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439248	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:14:00Z	1	125796850	GBAB-357-0125796850	stool	SRP051451					
+SRR1764908	AMPLICON	576	3382045	PRJNA264177	SAMN03264245	Metagenome or environmental	7365654	control	WUGSC	missing	public	sff,run.zq,sra	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846903	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439262	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:14:00Z	1	125800848	GBAB-366-0125800848	stool	SRP051451					
+SRR1764909	AMPLICON	580	3113977	PRJNA264177	SAMN03264208	Metagenome or environmental	6833013	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	ncbi.public,s3.us-east-1,gs.US	SRX846904	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439229	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:14:00Z	1	125797375	GBAB-247-0125797375	stool	SRP051451					
+SRR1764910	AMPLICON	582	104472940	PRJNA264177	SAMN03264228	Metagenome or environmental	228821468	case	WUGSC	missing	public	run.zq,sff,sra	s3,ncbi,gs	gs.US,ncbi.public,s3.us-east-1	SRX846905	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439250	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	125796839	GBAB-357-0125796839	stool	SRP051451					
+SRR1764911	AMPLICON	580	5282120	PRJNA264177	SAMN03264247	Metagenome or environmental	11544096	control	WUGSC	missing	public	run.zq,sra,sff	ncbi,s3,gs	s3.us-east-1,ncbi.public,gs.US	SRX846906	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439266	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:14:00Z	1	125800852	GBAB-366-0125800852	stool	SRP051451					
+SRR1764912	AMPLICON	562	2768475	PRJNA264177	SAMN03264163	Metagenome or environmental	6134754	control	WUGSC	missing	public	sff,sra,run.zq	s3,ncbi,gs	ncbi.public,gs.US,s3.us-east-1	SRX846907	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439059	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:14:00Z	1	124119095	GBAB-198-0124119095	stool	SRP051451					
+SRR1764913	AMPLICON	574	2711067	PRJNA264177	SAMN03264165	Metagenome or environmental	6019456	control	WUGSC	missing	public	sff,run.zq,sra	s3,gs,ncbi	gs.US,s3.us-east-1,ncbi.public	SRX846908	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439057	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	124119106	GBAB-198-0124119106	stool	SRP051451					
+SRR1764914	AMPLICON	549	2136524	PRJNA264177	SAMN03264220	Metagenome or environmental	4730820	control	WUGSC	missing	public	run.zq,sra,sff	s3,gs,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846909	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439233	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	125796857	GBAB-314-0125796857	stool	SRP051451					
+SRR1764924	AMPLICON	578	5237088	PRJNA264177	SAMN03264238	Metagenome or environmental	11379142	control	WUGSC	missing	public	run.zq,sra,sff	gs,ncbi,s3	s3.us-east-1,gs.US,ncbi.public	SRX846919	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439254	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:15:00Z	1	125796835	GBAB-360-0125796835	stool	SRP051451					
+SRR1764925	AMPLICON	575	1748049	PRJNA264177	SAMN03264202	Metagenome or environmental	3854120	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	ncbi.public,gs.US,s3.us-east-1	SRX846920	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439217	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:17:00Z	1	124119084	GBAB-242-0124119084	stool	SRP051451					
+SRR1764926	AMPLICON	565	8453501	PRJNA264177	SAMN03264237	Metagenome or environmental	18611157	control	WUGSC	missing	public	sff,sra,run.zq	ncbi,s3,gs	gs.US,ncbi.public,s3.us-east-1	SRX846921	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439255	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:17:00Z	1	125796834	GBAB-360-0125796834	stool	SRP051451					
+SRR1764927	AMPLICON	578	6521133	PRJNA264177	SAMN03264239	Metagenome or environmental	14166799	control	WUGSC	missing	public	sff,run.zq,sra	gs,s3,ncbi	ncbi.public,s3.us-east-1,gs.US	SRX846922	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439253	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:17:00Z	1	125796836	GBAB-360-0125796836	stool	SRP051451					
+SRR1764928	AMPLICON	570	2056215	PRJNA264177	SAMN03264229	Metagenome or environmental	4602968	case	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	gs.US,ncbi.public,s3.us-east-1	SRX846923	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439246	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:17:00Z	1	125796848	GBAB-357-0125796848	stool	SRP051451					
+SRR1764929	AMPLICON	564	3397252	PRJNA264177	SAMN03264160	Metagenome or environmental	7548394	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,gs,s3	ncbi.public,s3.us-east-1,gs.US	SRX846924	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439212	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:17:00Z	1	124119092	GBAB-198-0124119092	stool	SRP051451					
+SRR1764930	AMPLICON	527	2021631	PRJNA264177	SAMN03264240	Metagenome or environmental	4667833	control	WUGSC	missing	public	sra,sff,run.zq	s3,ncbi,gs	ncbi.public,s3.us-east-1,gs.US	SRX846925	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439252	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:17:00Z	1	125797431	GBAB-360-0125797431	stool	SRP051451					
+SRR1764931	AMPLICON	568	4047344	PRJNA264177	SAMN03264164	Metagenome or environmental	9106213	control	WUGSC	missing	public	sra,sff,run.zq	s3,ncbi,gs	ncbi.public,gs.US,s3.us-east-1	SRX846926	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439056	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:19:00Z	1	124119105	GBAB-198-0124119105	stool	SRP051451					
+SRR1764932	AMPLICON	568	2631666	PRJNA264177	SAMN03264224	Metagenome or environmental	5776770	control	WUGSC	missing	public	run.zq,sra,sff	s3,ncbi,gs	ncbi.public,s3.us-east-1,gs.US	SRX846927	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439239	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:18:00Z	1	125796014	GBAB-315-0125796014	stool	SRP051451					
+SRR1764933	AMPLICON	580	2635692	PRJNA264177	SAMN03264201	Metagenome or environmental	5757623	control	WUGSC	missing	public	sff,run.zq,sra	ncbi,gs,s3	gs.US,s3.us-east-1,ncbi.public	SRX846928	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439222	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:18:00Z	1	124119078	GBAB-242-0124119078	stool	SRP051451					
+SRR1764934	AMPLICON	575	5993269	PRJNA264177	SAMN03264248	Metagenome or environmental	13128568	case	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	ncbi.public,gs.US,s3.us-east-1	SRX846929	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439273	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:18:00Z	1	125796806	GBAB-395-0125796806	stool	SRP051451					
+SRR1764935	AMPLICON	568	2197948	PRJNA264177	SAMN03264204	Metagenome or environmental	4953391	control	WUGSC	missing	public	sff,run.zq,sra	s3,ncbi,gs	gs.US,s3.us-east-1,ncbi.public	SRX846930	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439215	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:19:00Z	1	124119086	GBAB-242-0124119086	stool	SRP051451					
+SRR1764936	AMPLICON	570	2786389	PRJNA264177	SAMN03264218	Metagenome or environmental	6131903	control	WUGSC	missing	public	sra,sff,run.zq	ncbi,s3,gs	gs.US,ncbi.public,s3.us-east-1	SRX846931	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439237	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:18:00Z	1	125796853	GBAB-314-0125796853	stool	SRP051451					
+SRR1764937	AMPLICON	572	5217908	PRJNA264177	SAMN03264234	Metagenome or environmental	11488039	control	WUGSC	missing	public	sra,run.zq,sff	s3,ncbi,gs	s3.us-east-1,ncbi.public,gs.US	SRX846932	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439258	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:19:00Z	1	125796831	GBAB-360-0125796831	stool	SRP051451					
+SRR1764938	AMPLICON	584	2261869	PRJNA264177	SAMN03264230	Metagenome or environmental	5015959	case	WUGSC	missing	public	sra,sff,run.zq	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846933	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439247	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:18:00Z	1	125796849	GBAB-357-0125796849	stool	SRP051451					
+SRR1764939	AMPLICON	573	6796411	PRJNA264177	SAMN03264233	Metagenome or environmental	14940259	control	WUGSC	missing	public	sra,run.zq,sff	gs,ncbi,s3	ncbi.public,s3.us-east-1,gs.US	SRX846934	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439259	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:19:00Z	1	125796830	GBAB-360-0125796830	stool	SRP051451					
+SRR1764940	AMPLICON	574	4337036	PRJNA264177	SAMN03264252	Metagenome or environmental	9535039	case	WUGSC	missing	public	run.zq,sra,sff	gs,s3,ncbi	s3.us-east-1,gs.US,ncbi.public	SRX846935	uncalculated	uncalculated	missing	necrotizing enterocolitis	Homo sapiens	454 GS FLX Titanium	missing	2888439269	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:19:00Z	1	125796810	GBAB-395-0125796810	stool	SRP051451					
+SRR1764941	AMPLICON	577	2534714	PRJNA264177	SAMN03264210	Metagenome or environmental	5558830	control	WUGSC	missing	public	sra,run.zq,sff	ncbi,s3,gs	gs.US,ncbi.public,s3.us-east-1	SRX846936	uncalculated	uncalculated	missing	normal	Homo sapiens	454 GS FLX Titanium	missing	2888439227	SINGLE	unspecified	METAGENOMIC	human gut metagenome	LS454	2015-01-16T00:00:00Z	2015-01-16T16:19:00Z	1	125797432	GBAB-247-0125797432	stool	SRP051451					
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								

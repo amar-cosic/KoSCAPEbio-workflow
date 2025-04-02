@@ -1,0 +1,45 @@
+f499920e7525b51eee07b1f1893603	pneumonia			8c557f76df4c1096831fc75f33c3d3	quasi			98d3960d0a54a88de8d10c120769ad	variicola		f499920e7525b51eee07b1f1893603	aerogenes				f499920e7525b51eee07b1f1893603	E.coli
+8c557f76df4c1096831fc75f33c3d3	pneumonia			4ac49ac87401f6b0ae0c614a4827fe	quasi			35d7e0cb25cece855bcae63af63d5f	variicola		051ee4f9bd439487212b37abff1650	aerogenes					
+4ac49ac87401f6b0ae0c614a4827fe	pneumonia			051ee4f9bd439487212b37abff1650	quasi			addb88b8c66ca891831d0fa29bd09f	variicola		0b80ed4a46a88d925d0adb2ab3b20e	aerogenes					
+98d3960d0a54a88de8d10c120769ad	pneumonia			15b178d6ef0cedafa8e719961225d2	quasi			7c66d9bb42cfe83c274d07f7d41741	variicola		df10b6492b674637361a993108e36a	aerogenes					
+051ee4f9bd439487212b37abff1650	pneumonia			8861c911951d2bf28398c690472b4e	quasi			1b5e431eacd85320a20cda934166dd	variicola		77d3e5308c2fdc140c8c62bb2822a8	aerogenes					
+09c00acaf131b4fb8d105c3c2d60f5	pneumonia			ce0824d329f3a9963b3d737794ee6e	quasi			512788ad36a6c6290bd1044d0c0a77	variicola		289d7d85671a56f1da8adb0b7ee2b5	aerogenes					
+15b178d6ef0cedafa8e719961225d2	pneumonia			842b43a14aa81679db4724c0f16593	quasi			49ffabe7a10d6cc9f534e1343d8b92	variicola		7385640740b603112549dde60f348c	aerogenes					
+ff6c35dac1f24217776c228af708eb	pneumonia			35d7e0cb25cece855bcae63af63d5f	quasi			e002cb7084ba8e16bf2b0b3c4b0e6e	variicola		3c382e4c36cf025bb2c7f8f34af121	aerogenes					
+1afc091de534556ba36e824730198e	pneumonia			addb88b8c66ca891831d0fa29bd09f	quasi			e82d62e030ae0d014a856ec4b65ec0	variicola		8f2b22404d5207b3f842dca22d2ae0	aerogenes					
+289d7d85671a56f1da8adb0b7ee2b5	pneumonia			a8fcc9edc986cc3470d70ba3664109	quasi						4aee7e632026b5bd1ef5cb03359812	aerogenes					
+8861c911951d2bf28398c690472b4e	pneumonia			7c66d9bb42cfe83c274d07f7d41741	quasi						8712dfb98d3d71f6779fb783b0ee46	aerogenes					
+4b5440863670d3e69632018cc0eae7	pneumonia			f3dd6a569e35678b5f7c406aa02248	quasi						49621d1a6e8e3f915519a306971161	aerogenes					
+143c20243ccbae2062b6db15a9bca1	pneumonia			1b5e431eacd85320a20cda934166dd	quasi						91d9e83e7e82d201ba32848610a08f	aerogenes					
+7ad4e9b10e1bf43964ed1d3614befe	pneumonia			ce5830e209f67f30e5f8db6454e642	quasi						e8ced80b2a1eeec970b10771e8473d	aerogenes					
+ce0824d329f3a9963b3d737794ee6e	pneumonia										ad3c641e4208b04cf0b8439e0ceb56	aerogenes					
+ab6b8019b00851d316984887239784	pneumonia										95b600c8d8aebb81225d11fb1dd329	aerogenes					
+4a4a09471facc70e27e88b4cc08971	pneumonia										5f26b3581730cf286935e160b2b66c	aerogenes					
+f9a6509f37695e603bd2bb7a73ec88	pneumonia										2a0732b1d2c3b5097b548b55e89b19	aerogenes					
+168b8974dc337364988b92c09e5332	pneumonia																
+842b43a14aa81679db4724c0f16593	pneumonia																
+35d7e0cb25cece855bcae63af63d5f	pneumonia																
+2a4189d5ca8763cabdbeb193dba312	pneumonia																
+f8d2c51f0a2813e1379515c2b12caf	pneumonia																
+addb88b8c66ca891831d0fa29bd09f	pneumonia																
+36015aa4840c24cf22f6f88c14361c	pneumonia																
+d63198a8e7fb37492311c556fb8f4f	pneumonia																
+12501b81ab1fb1169d05dd87886e4f	pneumonia																
+a8fcc9edc986cc3470d70ba3664109	pneumonia																
+e3d34e1ea0049fda487643153a282c	pneumonia																
+7c66d9bb42cfe83c274d07f7d41741	pneumonia																
+ce607b002e6b658e1cd3f71f37bc85	pneumonia																
+92ef1e091cb0f7d2ecdb66addad496	pneumonia																
+f3dd6a569e35678b5f7c406aa02248	pneumonia																
+418ed178935b6f19df8357972eaaf2	pneumonia																
+8d51c3125e5541a7d7f22ec71a6f1a	pneumonia																
+6457969acb40ade693d52b4a190672	pneumonia																
+1f626850cc5dca2c935a70e32c874f	pneumonia																
+954c891ce8180a9adf99a753c91227	pneumonia																
+8b258d89827a0fc6e9d18d87dbde69	pneumonia																
+49ffabe7a10d6cc9f534e1343d8b92	pneumonia																
+a0dce641488e6b60b5825e3745f915	pneumonia																
+e002cb7084ba8e16bf2b0b3c4b0e6e	pneumonia																
+e82d62e030ae0d014a856ec4b65ec0	pneumonia																
+0ae35c8e231c16a29169e9e5fb645d	pneumonia																
+ce5830e209f67f30e5f8db6454e642	pneumonia																

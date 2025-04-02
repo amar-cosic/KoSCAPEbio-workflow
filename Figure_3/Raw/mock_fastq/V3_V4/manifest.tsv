@@ -1,0 +1,6 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+sample-4	/home/amar/Desktop/Tools/Mock_community/mock_fastq/paired_end/V3_V4/sample-4_1.fastq	/home/amar/Desktop/Tools/Mock_community/mock_fastq/paired_end/V3_V4/sample-4_2.fastq
+sample-5	/home/amar/Desktop/Tools/Mock_community/mock_fastq/paired_end/V3_V4/sample-5_1.fastq	/home/amar/Desktop/Tools/Mock_community/mock_fastq/paired_end/V3_V4/sample-5_2.fastq
+sample-3	/home/amar/Desktop/Tools/Mock_community/mock_fastq/paired_end/V3_V4/sample-3_1.fastq	/home/amar/Desktop/Tools/Mock_community/mock_fastq/paired_end/V3_V4/sample-3_2.fastq
+sample-2	/home/amar/Desktop/Tools/Mock_community/mock_fastq/paired_end/V3_V4/sample-2_1.fastq	/home/amar/Desktop/Tools/Mock_community/mock_fastq/paired_end/V3_V4/sample-2_2.fastq
+sample-1	/home/amar/Desktop/Tools/Mock_community/mock_fastq/paired_end/V3_V4/sample-1_1.fastq	/home/amar/Desktop/Tools/Mock_community/mock_fastq/paired_end/V3_V4/sample-1_2.fastq
