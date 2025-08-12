@@ -6,30 +6,45 @@ This repository contains all data files, scripts, and high-quality figure PDFs n
 
 ## Main Folders and Figures
 
-- `Figure_1/`: Contains all data and scripts used to generate **Figure 1** and **Supplementary Figure S1** related to *Phylogeny* analysis.  
+- `Figure_1/`: Contains all data and scripts used to generate **Figure 1**, **Supplementary Figure S1** and **Supplementary Figure S5** related to *Phylogeny* analysis.  
   Contents: `csv`, `fasta`, `nwk`, `txt`, `tsv`, `py`
 
-- `Figure_2/`: Contains all data and scripts used to generate **Figure 2** and **Supplementary Figure S4**, both related to *Alignment*.  
+- `Figure_2/`: Contains all data and scripts used to generate **Figure 2** and **Supplementary Figure S6**, both related to *Alignment*.  
   Contents: `fasta`, `nwk`, `txt`, `py`
 
-- `Figure_3/`: Contains all data and scripts used to generate **Figure 3** related to the *Mock* dataset.  
+- `Figure_3/`: Contains all data and scripts used to generate **Figure 3** related to the *Mock-16S* dataset.  
   Contents: `fasta`, `qza`, `png`, `tsv`, `biom`, `aln`, `fastq`, `py`, `sh`
 
-- `Figure_4/`: Contains all data and scripts used to generate **Figure 4** and **Supplementary Figure S5**, related to *Clinical Datasets*.  
-  Contents: `fasta`, `qza`, `tsv`, `txt`, `png`, `biom`, `xlsx`
+- `Figure_4/`: Contains all scripts used to generate **Figure 4** related to the *Mock-WGS* dataset.  
+  Contents: `R`
 
-- `Figure_5/`: Contains all data and scripts used to generate **Figure 5** and **Supplementary Figure S5**, related to *Sim Clinical Dataset*.  
-  Contents: `xlsx`, `R`
+- `Figure_5/`: Contains all data and scripts used to generate **Figure 5**, related to *Clinical Datasets*.  
+  Contents: `fasta`, `qza`, `tsv`, `txt`, `png`, `biom`
+
+- `Figure_6/`: Contains all data and scripts used to generate **Figure 6** and **Supplementary Figure S7**, related to *Sim Clinical Dataset*.  
+  Contents: `R`
+  
+- `Figure_7/`: Contains all data and scripts used to generate **Figure 7**, related to *Odds Ratio - NEC*.  
+  Contents: `R`
 
 ## Supplementary Figures without Dedicated Folder
 
-- `No Folder`:  
+- `No Folder`:  	
     - **Supplementary Figure S2**: *Pipeline Database*
     - **Supplementary Figure S3**: *Pipeline Search*
-
+    - **Supplementary Figure S4**: *Datasets overlap*
+	
 ## PDFs
 
-- `PDFs/`: High-quality PDF versions of Figures 1–5 and Supplementary Figures S1–S5 used in the publication.
+- `PDFs/`: High-quality PDF versions of Figures 1–7 and Supplementary Figures S1–S7 used in the publication.
+
+## Excel
+
+- `Excel/`: Contains all raw data required for reproducibility, organized into four separate `.xlsx` files:
+    - `Supplementary_file_1.xlsx` – **Tables S1–S8** for **Figures 1 and 2**
+    - `Supplementary_file_2.xlsx` – **Tables S9–S14** for **Figures 3 and 4**
+    - `Supplementary_file_3.xlsx` – **Tables S15–S24** for **Figures 5 and 6**
+    - `Supplementary_file_4.xlsx` – **Tables S25–S27** for **Figure 7**
 
 ## Reproducing Figures
 
