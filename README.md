@@ -65,7 +65,7 @@ The folders for each figure contain the relevant data and scripts needed for ana
 
 If you use this repository, please cite our paper:
 
-**KoSCAPEbio differentiates species of the Klebsiella oxytoca Complex in 16S rRNA Amplicon Data**  
+**Refining Microbiome Resolution: KoSCAPEbio Identifies Klebsiella oxytoca Complex Species in 16S rRNA Amplicon Data and Uncovers Associations with NEC**  
 Authors: Amar Cosic, Bettina Halwachs, Kristina Schild, Ellen L. Zechner, & Sabine Kienesberger 
 Journal: [Journal Name, Year]  
 DOI: [DOI or link to paper]
